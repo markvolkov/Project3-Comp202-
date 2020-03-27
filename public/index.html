@@ -1,0 +1,74 @@
+<html lang="en">
+   <head>
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+      <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+      <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+      <link rel="stylesheet" href="index.css">
+      <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+      <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+      <script src="/heatmap.js/build/heatmap.js"></script>
+      <script src="/heatmap.js/plugins/leaflet-heatmap/leaflet-heatmap.js"></script>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+      <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.3.0/socket.io.js"></script> -->
+
+      <style>
+         #map { 
+          height:75%; 
+          width: 100%; 
+          border-bottom: .5rem !important;
+          border-bottom-color: black !important;
+          border-bottom-style: solid !important;
+         }
+         .leaflet-container {
+          background: rgba(0,0,0,.8) !important;
+         }
+         body {
+          background-color: #16a085;
+         }
+         #traverseText {
+         margin-bottom: -.5rem !important;
+         }
+         #playButton {
+          border-radius: .5rem;
+         }
+         .dropdown-menu {         
+          max-height: 200px;
+          overflow-y: auto;
+          }
+          .font-weight-lighter {
+            font-size: 1rem !important;
+          }
+      </style>
+   </head>
+   <body>
+      <div id="heatmap_head" class="container mt-1">
+         <h1 class="h1 text-center" style="color: white !important;">
+            Covid-19 Heatmap
+         </h1>
+         <p class="lead text-center" style="color: white !important;">(Confirmed Cases as Of 03/23/2020)</p>
+         <center>
+            <div class="btn-group mb-2">
+               <button class="btn  btn-secondary btn-lg dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+               Select Country
+               </button>
+               <div id="countries" class="dropdown-menu text-center"></div>
+            </div>
+         </center>
+      </div>
+      <div id="map" class="container"></div>
+      <div class="container">
+         <p class="lead text-center" id="traverseText" style="color: white !important;">Traverse Timeline</p>
+         <input type="range" class="custom-range" min="0" max="10" step="1" id="customRange">
+         <center><button class="fa fa-play-circle-o" id="playButton" style="font-size:36px;"></button></center>
+      </div>
+   </body>
+   <script src="map.js"></script>
+   <script>
+     $(document).ready(function() {
+      $("#playButton").click(function() {
+        alert("Currently not functional :(");
+      });
+     });
+   </script>
+</html>

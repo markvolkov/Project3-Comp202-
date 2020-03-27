@@ -1,0 +1,4345 @@
+[
+  {
+    "code": "KHM",
+    "name": "Cambodia",
+    "boundingBox": {
+      "iso": "KHM",
+      "sw": {
+        "type": "sw",
+        "longitude": 102.3338282,
+        "latitude": 9.4752639
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 107.6276788,
+        "latitude": 14.6904224
+      }
+    },
+    "dayToCases": {
+      "Tue Jan 28 00:00:00 EST 2020": 1,
+      "Wed Jan 29 00:00:00 EST 2020": 1,
+      "Thu Jan 30 00:00:00 EST 2020": 1,
+      "Fri Jan 31 00:00:00 EST 2020": 1,
+      "Sat Feb 01 00:00:00 EST 2020": 1,
+      "Sun Feb 02 00:00:00 EST 2020": 1,
+      "Mon Feb 03 00:00:00 EST 2020": 1,
+      "Tue Feb 04 00:00:00 EST 2020": 1,
+      "Wed Feb 05 00:00:00 EST 2020": 1,
+      "Thu Feb 06 00:00:00 EST 2020": 1,
+      "Fri Feb 07 00:00:00 EST 2020": 1,
+      "Sat Feb 08 00:00:00 EST 2020": 1,
+      "Sun Feb 09 00:00:00 EST 2020": 1,
+      "Mon Feb 10 00:00:00 EST 2020": 1,
+      "Tue Feb 11 00:00:00 EST 2020": 1,
+      "Wed Feb 12 00:00:00 EST 2020": 1,
+      "Thu Feb 13 00:00:00 EST 2020": 1,
+      "Fri Feb 14 00:00:00 EST 2020": 1,
+      "Sat Feb 15 00:00:00 EST 2020": 1,
+      "Sun Feb 16 00:00:00 EST 2020": 1,
+      "Mon Feb 17 00:00:00 EST 2020": 1,
+      "Tue Feb 18 00:00:00 EST 2020": 1,
+      "Wed Feb 19 00:00:00 EST 2020": 1,
+      "Thu Feb 20 00:00:00 EST 2020": 1,
+      "Fri Feb 21 00:00:00 EST 2020": 1,
+      "Sat Feb 22 00:00:00 EST 2020": 1,
+      "Sun Feb 23 00:00:00 EST 2020": 1,
+      "Mon Feb 24 00:00:00 EST 2020": 1,
+      "Tue Feb 25 00:00:00 EST 2020": 1,
+      "Wed Feb 26 00:00:00 EST 2020": 1,
+      "Thu Feb 27 00:00:00 EST 2020": 1,
+      "Fri Feb 28 00:00:00 EST 2020": 1,
+      "Sat Feb 29 00:00:00 EST 2020": 1,
+      "Sun Mar 01 00:00:00 EST 2020": 1,
+      "Mon Mar 02 00:00:00 EST 2020": 1,
+      "Tue Mar 03 00:00:00 EST 2020": 1,
+      "Wed Mar 04 00:00:00 EST 2020": 1,
+      "Thu Mar 05 00:00:00 EST 2020": 1,
+      "Fri Mar 06 00:00:00 EST 2020": 1,
+      "Sat Mar 07 00:00:00 EST 2020": 1,
+      "Sun Mar 08 00:00:00 EST 2020": 2,
+      "Mon Mar 09 00:00:00 EDT 2020": 2,
+      "Tue Mar 10 00:00:00 EDT 2020": 2,
+      "Wed Mar 11 00:00:00 EDT 2020": 3,
+      "Thu Mar 12 00:00:00 EDT 2020": 3,
+      "Fri Mar 13 00:00:00 EDT 2020": 5
+    }
+  },
+  {
+    "code": "PRY",
+    "name": "Paraguay",
+    "boundingBox": {
+      "iso": "PRY",
+      "sw": {
+        "type": "sw",
+        "longitude": -62.6442036,
+        "latitude": -27.6063935
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": -54.258,
+        "latitude": -19.2876472
+      }
+    },
+    "dayToCases": {
+      "Mon Mar 09 00:00:00 EDT 2020": 1,
+      "Tue Mar 10 00:00:00 EDT 2020": 1,
+      "Wed Mar 11 00:00:00 EDT 2020": 5,
+      "Thu Mar 12 00:00:00 EDT 2020": 5,
+      "Fri Mar 13 00:00:00 EDT 2020": 5
+    }
+  },
+  {
+    "code": "PRT",
+    "name": "Portugal",
+    "boundingBox": {
+      "iso": "PRT",
+      "sw": {
+        "type": "sw",
+        "longitude": -31.5575303,
+        "latitude": 29.8288021
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": -6.1891593,
+        "latitude": 42.1543112
+      }
+    },
+    "dayToCases": {
+      "Tue Mar 03 00:00:00 EST 2020": 2,
+      "Wed Mar 04 00:00:00 EST 2020": 2,
+      "Thu Mar 05 00:00:00 EST 2020": 7,
+      "Fri Mar 06 00:00:00 EST 2020": 9,
+      "Sat Mar 07 00:00:00 EST 2020": 13,
+      "Sun Mar 08 00:00:00 EST 2020": 21,
+      "Mon Mar 09 00:00:00 EDT 2020": 30,
+      "Tue Mar 10 00:00:00 EDT 2020": 30,
+      "Wed Mar 11 00:00:00 EDT 2020": 41,
+      "Thu Mar 12 00:00:00 EDT 2020": 41,
+      "Fri Mar 13 00:00:00 EDT 2020": 41
+    }
+  },
+  {
+    "code": "GRC",
+    "name": "Greece",
+    "boundingBox": {
+      "iso": "GRC",
+      "sw": {
+        "type": "sw",
+        "longitude": 19.2477876,
+        "latitude": 34.7006096
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 29.7296986,
+        "latitude": 41.7488862
+      }
+    },
+    "dayToCases": {
+      "Thu Feb 27 00:00:00 EST 2020": 1,
+      "Fri Feb 28 00:00:00 EST 2020": 3,
+      "Sat Feb 29 00:00:00 EST 2020": 3,
+      "Sun Mar 01 00:00:00 EST 2020": 3,
+      "Mon Mar 02 00:00:00 EST 2020": 7,
+      "Tue Mar 03 00:00:00 EST 2020": 7,
+      "Wed Mar 04 00:00:00 EST 2020": 7,
+      "Thu Mar 05 00:00:00 EST 2020": 9,
+      "Fri Mar 06 00:00:00 EST 2020": 32,
+      "Sat Mar 07 00:00:00 EST 2020": 32,
+      "Sun Mar 08 00:00:00 EST 2020": 66,
+      "Mon Mar 09 00:00:00 EDT 2020": 73,
+      "Tue Mar 10 00:00:00 EDT 2020": 73,
+      "Wed Mar 11 00:00:00 EDT 2020": 89,
+      "Thu Mar 12 00:00:00 EDT 2020": 98,
+      "Fri Mar 13 00:00:00 EDT 2020": 98
+    }
+  },
+  {
+    "code": "LVA",
+    "name": "Latvia",
+    "boundingBox": {
+      "iso": "LVA",
+      "sw": {
+        "type": "sw",
+        "longitude": 20.6715407,
+        "latitude": 55.6746505
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 28.2414904,
+        "latitude": 58.0855688
+      }
+    },
+    "dayToCases": {
+      "Tue Mar 03 00:00:00 EST 2020": 1,
+      "Wed Mar 04 00:00:00 EST 2020": 1,
+      "Thu Mar 05 00:00:00 EST 2020": 1,
+      "Fri Mar 06 00:00:00 EST 2020": 1,
+      "Sat Mar 07 00:00:00 EST 2020": 1,
+      "Sun Mar 08 00:00:00 EST 2020": 1,
+      "Mon Mar 09 00:00:00 EDT 2020": 3,
+      "Tue Mar 10 00:00:00 EDT 2020": 6,
+      "Wed Mar 11 00:00:00 EDT 2020": 8,
+      "Thu Mar 12 00:00:00 EDT 2020": 16,
+      "Fri Mar 13 00:00:00 EDT 2020": 16
+    }
+  },
+  {
+    "code": "MNG",
+    "name": "Mongolia",
+    "boundingBox": {
+      "iso": "MNG",
+      "sw": {
+        "type": "sw",
+        "longitude": 87.73762,
+        "latitude": 41.5800276
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 119.931949,
+        "latitude": 52.1496
+      }
+    },
+    "dayToCases": {
+      "Tue Mar 10 00:00:00 EDT 2020": 1,
+      "Wed Mar 11 00:00:00 EDT 2020": 1,
+      "Thu Mar 12 00:00:00 EDT 2020": 1,
+      "Fri Mar 13 00:00:00 EDT 2020": 1
+    }
+  },
+  {
+    "code": "IRN",
+    "name": "Iran",
+    "boundingBox": {
+      "iso": "IRN",
+      "sw": {
+        "type": "sw",
+        "longitude": 44.0318908,
+        "latitude": 24.8465103
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 63.3332704,
+        "latitude": 39.7816502
+      }
+    },
+    "dayToCases": {
+      "Thu Feb 20 00:00:00 EST 2020": 2,
+      "Fri Feb 21 00:00:00 EST 2020": 5,
+      "Sat Feb 22 00:00:00 EST 2020": 18,
+      "Sun Feb 23 00:00:00 EST 2020": 28,
+      "Mon Feb 24 00:00:00 EST 2020": 43,
+      "Tue Feb 25 00:00:00 EST 2020": 61,
+      "Wed Feb 26 00:00:00 EST 2020": 95,
+      "Thu Feb 27 00:00:00 EST 2020": 141,
+      "Fri Feb 28 00:00:00 EST 2020": 245,
+      "Sat Feb 29 00:00:00 EST 2020": 388,
+      "Sun Mar 01 00:00:00 EST 2020": 593,
+      "Mon Mar 02 00:00:00 EST 2020": 978,
+      "Tue Mar 03 00:00:00 EST 2020": 1501,
+      "Wed Mar 04 00:00:00 EST 2020": 2336,
+      "Thu Mar 05 00:00:00 EST 2020": 2922,
+      "Fri Mar 06 00:00:00 EST 2020": 3513,
+      "Sat Mar 07 00:00:00 EST 2020": 4747,
+      "Sun Mar 08 00:00:00 EST 2020": 5823,
+      "Mon Mar 09 00:00:00 EDT 2020": 6566,
+      "Tue Mar 10 00:00:00 EDT 2020": 7161,
+      "Wed Mar 11 00:00:00 EDT 2020": 8042,
+      "Thu Mar 12 00:00:00 EDT 2020": 9000,
+      "Fri Mar 13 00:00:00 EDT 2020": 10075
+    }
+  },
+  {
+    "code": "MAR",
+    "name": "Morocco",
+    "boundingBox": {
+      "iso": "MAR",
+      "sw": {
+        "type": "sw",
+        "longitude": -17.2551456,
+        "latitude": 21.3365321
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": -0.998429,
+        "latitude": 36.0505269
+      }
+    },
+    "dayToCases": {
+      "Tue Mar 03 00:00:00 EST 2020": 1,
+      "Wed Mar 04 00:00:00 EST 2020": 1,
+      "Thu Mar 05 00:00:00 EST 2020": 2,
+      "Fri Mar 06 00:00:00 EST 2020": 2,
+      "Sat Mar 07 00:00:00 EST 2020": 2,
+      "Sun Mar 08 00:00:00 EST 2020": 2,
+      "Mon Mar 09 00:00:00 EDT 2020": 2,
+      "Tue Mar 10 00:00:00 EDT 2020": 2,
+      "Wed Mar 11 00:00:00 EDT 2020": 3,
+      "Thu Mar 12 00:00:00 EDT 2020": 5,
+      "Fri Mar 13 00:00:00 EDT 2020": 6
+    }
+  },
+  {
+    "code": "PAN",
+    "name": "Panama",
+    "boundingBox": {
+      "iso": "PAN",
+      "sw": {
+        "type": "sw",
+        "longitude": -83.0517245,
+        "latitude": 7.0338679
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": -77.1393779,
+        "latitude": 9.8701757
+      }
+    },
+    "dayToCases": {
+      "Tue Mar 10 00:00:00 EDT 2020": 1,
+      "Wed Mar 11 00:00:00 EDT 2020": 8,
+      "Thu Mar 12 00:00:00 EDT 2020": 10,
+      "Fri Mar 13 00:00:00 EDT 2020": 14
+    }
+  },
+  {
+    "code": "GUY",
+    "name": "Guyana",
+    "boundingBox": {
+      "iso": "GUY",
+      "sw": {
+        "type": "sw",
+        "longitude": -61.414905,
+        "latitude": 1.1710017
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": -56.4689543,
+        "latitude": 8.6038842
+      }
+    },
+    "dayToCases": {
+      "Fri Mar 13 00:00:00 EDT 2020": 1
+    }
+  },
+  {
+    "code": "IRQ",
+    "name": "Iraq",
+    "boundingBox": {
+      "iso": "IRQ",
+      "sw": {
+        "type": "sw",
+        "longitude": 38.7936719,
+        "latitude": 29.0585661
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 48.8412702,
+        "latitude": 37.380932
+      }
+    },
+    "dayToCases": {
+      "Tue Feb 25 00:00:00 EST 2020": 1,
+      "Wed Feb 26 00:00:00 EST 2020": 5,
+      "Thu Feb 27 00:00:00 EST 2020": 6,
+      "Fri Feb 28 00:00:00 EST 2020": 7,
+      "Sat Feb 29 00:00:00 EST 2020": 8,
+      "Sun Mar 01 00:00:00 EST 2020": 13,
+      "Mon Mar 02 00:00:00 EST 2020": 19,
+      "Tue Mar 03 00:00:00 EST 2020": 26,
+      "Wed Mar 04 00:00:00 EST 2020": 31,
+      "Thu Mar 05 00:00:00 EST 2020": 36,
+      "Fri Mar 06 00:00:00 EST 2020": 36,
+      "Sat Mar 07 00:00:00 EST 2020": 44,
+      "Sun Mar 08 00:00:00 EST 2020": 54,
+      "Mon Mar 09 00:00:00 EDT 2020": 60,
+      "Tue Mar 10 00:00:00 EDT 2020": 61,
+      "Wed Mar 11 00:00:00 EDT 2020": 61,
+      "Thu Mar 12 00:00:00 EDT 2020": 70,
+      "Fri Mar 13 00:00:00 EDT 2020": 70
+    }
+  },
+  {
+    "code": "CHL",
+    "name": "Chile",
+    "boundingBox": {
+      "iso": "CHL",
+      "sw": {
+        "type": "sw",
+        "longitude": -109.6795789,
+        "latitude": -56.725
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": -66.0753474,
+        "latitude": -17.4983998
+      }
+    },
+    "dayToCases": {
+      "Wed Mar 04 00:00:00 EST 2020": 1,
+      "Thu Mar 05 00:00:00 EST 2020": 1,
+      "Fri Mar 06 00:00:00 EST 2020": 1,
+      "Sat Mar 07 00:00:00 EST 2020": 5,
+      "Sun Mar 08 00:00:00 EST 2020": 5,
+      "Mon Mar 09 00:00:00 EDT 2020": 10,
+      "Tue Mar 10 00:00:00 EDT 2020": 13,
+      "Wed Mar 11 00:00:00 EDT 2020": 17,
+      "Thu Mar 12 00:00:00 EDT 2020": 23,
+      "Fri Mar 13 00:00:00 EDT 2020": 33
+    }
+  },
+  {
+    "code": "NPL",
+    "name": "Nepal",
+    "boundingBox": {
+      "iso": "NPL",
+      "sw": {
+        "type": "sw",
+        "longitude": 80.0586226,
+        "latitude": 26.3477581
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 88.2015257,
+        "latitude": 30.446945
+      }
+    },
+    "dayToCases": {
+      "Sat Jan 25 00:00:00 EST 2020": 1,
+      "Sun Jan 26 00:00:00 EST 2020": 1,
+      "Mon Jan 27 00:00:00 EST 2020": 1,
+      "Tue Jan 28 00:00:00 EST 2020": 1,
+      "Wed Jan 29 00:00:00 EST 2020": 1,
+      "Thu Jan 30 00:00:00 EST 2020": 1,
+      "Fri Jan 31 00:00:00 EST 2020": 1,
+      "Sat Feb 01 00:00:00 EST 2020": 1,
+      "Sun Feb 02 00:00:00 EST 2020": 1,
+      "Mon Feb 03 00:00:00 EST 2020": 1,
+      "Tue Feb 04 00:00:00 EST 2020": 1,
+      "Wed Feb 05 00:00:00 EST 2020": 1,
+      "Thu Feb 06 00:00:00 EST 2020": 1,
+      "Fri Feb 07 00:00:00 EST 2020": 1,
+      "Sat Feb 08 00:00:00 EST 2020": 1,
+      "Sun Feb 09 00:00:00 EST 2020": 1,
+      "Mon Feb 10 00:00:00 EST 2020": 1,
+      "Tue Feb 11 00:00:00 EST 2020": 1,
+      "Wed Feb 12 00:00:00 EST 2020": 1,
+      "Thu Feb 13 00:00:00 EST 2020": 1,
+      "Fri Feb 14 00:00:00 EST 2020": 1,
+      "Sat Feb 15 00:00:00 EST 2020": 1,
+      "Sun Feb 16 00:00:00 EST 2020": 1,
+      "Mon Feb 17 00:00:00 EST 2020": 1,
+      "Tue Feb 18 00:00:00 EST 2020": 1,
+      "Wed Feb 19 00:00:00 EST 2020": 1,
+      "Thu Feb 20 00:00:00 EST 2020": 1,
+      "Fri Feb 21 00:00:00 EST 2020": 1,
+      "Sat Feb 22 00:00:00 EST 2020": 1,
+      "Sun Feb 23 00:00:00 EST 2020": 1,
+      "Mon Feb 24 00:00:00 EST 2020": 1,
+      "Tue Feb 25 00:00:00 EST 2020": 1,
+      "Wed Feb 26 00:00:00 EST 2020": 1,
+      "Thu Feb 27 00:00:00 EST 2020": 1,
+      "Fri Feb 28 00:00:00 EST 2020": 1,
+      "Sat Feb 29 00:00:00 EST 2020": 1,
+      "Sun Mar 01 00:00:00 EST 2020": 1,
+      "Mon Mar 02 00:00:00 EST 2020": 1,
+      "Tue Mar 03 00:00:00 EST 2020": 1,
+      "Wed Mar 04 00:00:00 EST 2020": 1,
+      "Thu Mar 05 00:00:00 EST 2020": 1,
+      "Fri Mar 06 00:00:00 EST 2020": 1,
+      "Sat Mar 07 00:00:00 EST 2020": 1,
+      "Sun Mar 08 00:00:00 EST 2020": 1,
+      "Mon Mar 09 00:00:00 EDT 2020": 1,
+      "Tue Mar 10 00:00:00 EDT 2020": 1,
+      "Wed Mar 11 00:00:00 EDT 2020": 1,
+      "Thu Mar 12 00:00:00 EDT 2020": 1,
+      "Fri Mar 13 00:00:00 EDT 2020": 1
+    }
+  },
+  {
+    "code": "VAT",
+    "name": "Vatican",
+    "boundingBox": {
+      "iso": "VAT",
+      "sw": {
+        "type": "sw",
+        "longitude": 12.4457442,
+        "latitude": 41.9002044
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 12.4583653,
+        "latitude": 41.9073912
+      }
+    },
+    "dayToCases": {
+      "Sat Mar 07 00:00:00 EST 2020": 1,
+      "Sun Mar 08 00:00:00 EST 2020": 1,
+      "Mon Mar 09 00:00:00 EDT 2020": 1,
+      "Tue Mar 10 00:00:00 EDT 2020": 1,
+      "Wed Mar 11 00:00:00 EDT 2020": 1,
+      "Thu Mar 12 00:00:00 EDT 2020": 1,
+      "Fri Mar 13 00:00:00 EDT 2020": 1
+    }
+  },
+  {
+    "code": "ARG",
+    "name": "Argentina",
+    "boundingBox": {
+      "iso": "ARG",
+      "sw": {
+        "type": "sw",
+        "longitude": -73.5600329,
+        "latitude": -55.1850761
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": -53.6374515,
+        "latitude": -21.781168
+      }
+    },
+    "dayToCases": {
+      "Wed Mar 04 00:00:00 EST 2020": 1,
+      "Thu Mar 05 00:00:00 EST 2020": 1,
+      "Fri Mar 06 00:00:00 EST 2020": 1,
+      "Sat Mar 07 00:00:00 EST 2020": 2,
+      "Sun Mar 08 00:00:00 EST 2020": 9,
+      "Mon Mar 09 00:00:00 EDT 2020": 12,
+      "Tue Mar 10 00:00:00 EDT 2020": 12,
+      "Wed Mar 11 00:00:00 EDT 2020": 17,
+      "Thu Mar 12 00:00:00 EDT 2020": 19,
+      "Fri Mar 13 00:00:00 EDT 2020": 31
+    }
+  },
+  {
+    "code": "UKR",
+    "name": "Ukraine",
+    "boundingBox": {
+      "iso": "UKR",
+      "sw": {
+        "type": "sw",
+        "longitude": 22.137059,
+        "latitude": 44.184598
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 40.2275801,
+        "latitude": 52.3791473
+      }
+    },
+    "dayToCases": {
+      "Wed Mar 04 00:00:00 EST 2020": 1,
+      "Thu Mar 05 00:00:00 EST 2020": 1,
+      "Fri Mar 06 00:00:00 EST 2020": 1,
+      "Sat Mar 07 00:00:00 EST 2020": 1,
+      "Sun Mar 08 00:00:00 EST 2020": 1,
+      "Mon Mar 09 00:00:00 EDT 2020": 1,
+      "Tue Mar 10 00:00:00 EDT 2020": 1,
+      "Wed Mar 11 00:00:00 EDT 2020": 1,
+      "Thu Mar 12 00:00:00 EDT 2020": 1,
+      "Fri Mar 13 00:00:00 EDT 2020": 3
+    }
+  },
+  {
+    "code": "BHR",
+    "name": "Bahrain",
+    "boundingBox": {
+      "iso": "BHR",
+      "sw": {
+        "type": "sw",
+        "longitude": 50.2697989,
+        "latitude": 25.535
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 50.9233693,
+        "latitude": 26.6872444
+      }
+    },
+    "dayToCases": {
+      "Tue Feb 25 00:00:00 EST 2020": 8,
+      "Wed Feb 26 00:00:00 EST 2020": 26,
+      "Thu Feb 27 00:00:00 EST 2020": 33,
+      "Fri Feb 28 00:00:00 EST 2020": 33,
+      "Sat Feb 29 00:00:00 EST 2020": 38,
+      "Sun Mar 01 00:00:00 EST 2020": 40,
+      "Mon Mar 02 00:00:00 EST 2020": 47,
+      "Tue Mar 03 00:00:00 EST 2020": 49,
+      "Wed Mar 04 00:00:00 EST 2020": 49,
+      "Thu Mar 05 00:00:00 EST 2020": 49,
+      "Fri Mar 06 00:00:00 EST 2020": 49,
+      "Sat Mar 07 00:00:00 EST 2020": 49,
+      "Sun Mar 08 00:00:00 EST 2020": 56,
+      "Mon Mar 09 00:00:00 EDT 2020": 79,
+      "Tue Mar 10 00:00:00 EDT 2020": 109,
+      "Wed Mar 11 00:00:00 EDT 2020": 110,
+      "Thu Mar 12 00:00:00 EDT 2020": 189,
+      "Fri Mar 13 00:00:00 EDT 2020": 195
+    }
+  },
+  {
+    "code": "IND",
+    "name": "India",
+    "boundingBox": {
+      "iso": "IND",
+      "sw": {
+        "type": "sw",
+        "longitude": 68.1113787,
+        "latitude": 6.5546079
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 97.395561,
+        "latitude": 35.6745457
+      }
+    },
+    "dayToCases": {
+      "Thu Jan 30 00:00:00 EST 2020": 1,
+      "Fri Jan 31 00:00:00 EST 2020": 1,
+      "Sat Feb 01 00:00:00 EST 2020": 1,
+      "Sun Feb 02 00:00:00 EST 2020": 2,
+      "Mon Feb 03 00:00:00 EST 2020": 3,
+      "Tue Feb 04 00:00:00 EST 2020": 3,
+      "Wed Feb 05 00:00:00 EST 2020": 3,
+      "Thu Feb 06 00:00:00 EST 2020": 3,
+      "Fri Feb 07 00:00:00 EST 2020": 3,
+      "Sat Feb 08 00:00:00 EST 2020": 3,
+      "Sun Feb 09 00:00:00 EST 2020": 3,
+      "Mon Feb 10 00:00:00 EST 2020": 3,
+      "Tue Feb 11 00:00:00 EST 2020": 3,
+      "Wed Feb 12 00:00:00 EST 2020": 3,
+      "Thu Feb 13 00:00:00 EST 2020": 3,
+      "Fri Feb 14 00:00:00 EST 2020": 3,
+      "Sat Feb 15 00:00:00 EST 2020": 3,
+      "Sun Feb 16 00:00:00 EST 2020": 3,
+      "Mon Feb 17 00:00:00 EST 2020": 3,
+      "Tue Feb 18 00:00:00 EST 2020": 3,
+      "Wed Feb 19 00:00:00 EST 2020": 3,
+      "Thu Feb 20 00:00:00 EST 2020": 3,
+      "Fri Feb 21 00:00:00 EST 2020": 3,
+      "Sat Feb 22 00:00:00 EST 2020": 3,
+      "Sun Feb 23 00:00:00 EST 2020": 3,
+      "Mon Feb 24 00:00:00 EST 2020": 3,
+      "Tue Feb 25 00:00:00 EST 2020": 3,
+      "Wed Feb 26 00:00:00 EST 2020": 3,
+      "Thu Feb 27 00:00:00 EST 2020": 3,
+      "Fri Feb 28 00:00:00 EST 2020": 3,
+      "Sat Feb 29 00:00:00 EST 2020": 3,
+      "Sun Mar 01 00:00:00 EST 2020": 3,
+      "Mon Mar 02 00:00:00 EST 2020": 3,
+      "Tue Mar 03 00:00:00 EST 2020": 5,
+      "Wed Mar 04 00:00:00 EST 2020": 6,
+      "Thu Mar 05 00:00:00 EST 2020": 29,
+      "Fri Mar 06 00:00:00 EST 2020": 30,
+      "Sat Mar 07 00:00:00 EST 2020": 31,
+      "Sun Mar 08 00:00:00 EST 2020": 34,
+      "Mon Mar 09 00:00:00 EDT 2020": 43,
+      "Tue Mar 10 00:00:00 EDT 2020": 44,
+      "Wed Mar 11 00:00:00 EDT 2020": 60,
+      "Thu Mar 12 00:00:00 EDT 2020": 73,
+      "Fri Mar 13 00:00:00 EDT 2020": 74
+    }
+  },
+  {
+    "code": "CAN",
+    "name": "Canada",
+    "boundingBox": {
+      "iso": "CAN",
+      "sw": {
+        "type": "sw",
+        "longitude": -141.00275,
+        "latitude": 41.6765556
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": -52.3231981,
+        "latitude": 83.3362128
+      }
+    },
+    "dayToCases": {
+      "Mon Jan 27 00:00:00 EST 2020": 1,
+      "Tue Jan 28 00:00:00 EST 2020": 2,
+      "Wed Jan 29 00:00:00 EST 2020": 3,
+      "Thu Jan 30 00:00:00 EST 2020": 3,
+      "Fri Jan 31 00:00:00 EST 2020": 3,
+      "Sat Feb 01 00:00:00 EST 2020": 4,
+      "Sun Feb 02 00:00:00 EST 2020": 4,
+      "Mon Feb 03 00:00:00 EST 2020": 4,
+      "Tue Feb 04 00:00:00 EST 2020": 4,
+      "Wed Feb 05 00:00:00 EST 2020": 5,
+      "Thu Feb 06 00:00:00 EST 2020": 5,
+      "Fri Feb 07 00:00:00 EST 2020": 7,
+      "Sat Feb 08 00:00:00 EST 2020": 7,
+      "Sun Feb 09 00:00:00 EST 2020": 7,
+      "Mon Feb 10 00:00:00 EST 2020": 7,
+      "Tue Feb 11 00:00:00 EST 2020": 7,
+      "Wed Feb 12 00:00:00 EST 2020": 7,
+      "Thu Feb 13 00:00:00 EST 2020": 7,
+      "Fri Feb 14 00:00:00 EST 2020": 7,
+      "Sat Feb 15 00:00:00 EST 2020": 7,
+      "Sun Feb 16 00:00:00 EST 2020": 7,
+      "Mon Feb 17 00:00:00 EST 2020": 7,
+      "Tue Feb 18 00:00:00 EST 2020": 8,
+      "Wed Feb 19 00:00:00 EST 2020": 8,
+      "Thu Feb 20 00:00:00 EST 2020": 8,
+      "Fri Feb 21 00:00:00 EST 2020": 8,
+      "Sat Feb 22 00:00:00 EST 2020": 8,
+      "Sun Feb 23 00:00:00 EST 2020": 9,
+      "Mon Feb 24 00:00:00 EST 2020": 9,
+      "Tue Feb 25 00:00:00 EST 2020": 10,
+      "Wed Feb 26 00:00:00 EST 2020": 10,
+      "Thu Feb 27 00:00:00 EST 2020": 11,
+      "Fri Feb 28 00:00:00 EST 2020": 11,
+      "Sat Feb 29 00:00:00 EST 2020": 14,
+      "Sun Mar 01 00:00:00 EST 2020": 19,
+      "Mon Mar 02 00:00:00 EST 2020": 19,
+      "Tue Mar 03 00:00:00 EST 2020": 27,
+      "Wed Mar 04 00:00:00 EST 2020": 30,
+      "Thu Mar 05 00:00:00 EST 2020": 30,
+      "Fri Mar 06 00:00:00 EST 2020": 45,
+      "Sat Mar 07 00:00:00 EST 2020": 51,
+      "Sun Mar 08 00:00:00 EST 2020": 57,
+      "Mon Mar 09 00:00:00 EDT 2020": 62,
+      "Tue Mar 10 00:00:00 EDT 2020": 77,
+      "Wed Mar 11 00:00:00 EDT 2020": 93,
+      "Thu Mar 12 00:00:00 EDT 2020": 93,
+      "Fri Mar 13 00:00:00 EDT 2020": 138
+    }
+  },
+  {
+    "code": "MDV",
+    "name": "Maldives",
+    "boundingBox": {
+      "iso": "MDV",
+      "sw": {
+        "type": "sw",
+        "longitude": 72.3554187,
+        "latitude": -0.9074935
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 73.9700962,
+        "latitude": 7.3106246
+      }
+    },
+    "dayToCases": {
+      "Sun Mar 08 00:00:00 EST 2020": 2,
+      "Mon Mar 09 00:00:00 EDT 2020": 4,
+      "Tue Mar 10 00:00:00 EDT 2020": 4,
+      "Wed Mar 11 00:00:00 EDT 2020": 8,
+      "Thu Mar 12 00:00:00 EDT 2020": 8,
+      "Fri Mar 13 00:00:00 EDT 2020": 8
+    }
+  },
+  {
+    "code": "TUR",
+    "name": "Turkey",
+    "boundingBox": {
+      "iso": "TUR",
+      "sw": {
+        "type": "sw",
+        "longitude": 25.6212891,
+        "latitude": 35.8076804
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 44.8176638,
+        "latitude": 42.297
+      }
+    },
+    "dayToCases": {
+      "Thu Mar 12 00:00:00 EDT 2020": 1,
+      "Fri Mar 13 00:00:00 EDT 2020": 1
+    }
+  },
+  {
+    "code": "BEL",
+    "name": "Belgium",
+    "boundingBox": {
+      "iso": "BEL",
+      "sw": {
+        "type": "sw",
+        "longitude": 2.3889137,
+        "latitude": 49.4969821
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 6.408097,
+        "latitude": 51.5516667
+      }
+    },
+    "dayToCases": {
+      "Wed Feb 05 00:00:00 EST 2020": 1,
+      "Thu Feb 06 00:00:00 EST 2020": 1,
+      "Fri Feb 07 00:00:00 EST 2020": 1,
+      "Sat Feb 08 00:00:00 EST 2020": 1,
+      "Sun Feb 09 00:00:00 EST 2020": 1,
+      "Mon Feb 10 00:00:00 EST 2020": 1,
+      "Tue Feb 11 00:00:00 EST 2020": 1,
+      "Wed Feb 12 00:00:00 EST 2020": 1,
+      "Thu Feb 13 00:00:00 EST 2020": 1,
+      "Fri Feb 14 00:00:00 EST 2020": 1,
+      "Sat Feb 15 00:00:00 EST 2020": 1,
+      "Sun Feb 16 00:00:00 EST 2020": 1,
+      "Mon Feb 17 00:00:00 EST 2020": 1,
+      "Tue Feb 18 00:00:00 EST 2020": 1,
+      "Wed Feb 19 00:00:00 EST 2020": 1,
+      "Thu Feb 20 00:00:00 EST 2020": 1,
+      "Fri Feb 21 00:00:00 EST 2020": 1,
+      "Sat Feb 22 00:00:00 EST 2020": 1,
+      "Sun Feb 23 00:00:00 EST 2020": 1,
+      "Mon Feb 24 00:00:00 EST 2020": 1,
+      "Tue Feb 25 00:00:00 EST 2020": 1,
+      "Wed Feb 26 00:00:00 EST 2020": 1,
+      "Thu Feb 27 00:00:00 EST 2020": 1,
+      "Fri Feb 28 00:00:00 EST 2020": 1,
+      "Sat Feb 29 00:00:00 EST 2020": 1,
+      "Sun Mar 01 00:00:00 EST 2020": 1,
+      "Mon Mar 02 00:00:00 EST 2020": 1,
+      "Tue Mar 03 00:00:00 EST 2020": 8,
+      "Wed Mar 04 00:00:00 EST 2020": 8,
+      "Thu Mar 05 00:00:00 EST 2020": 23,
+      "Fri Mar 06 00:00:00 EST 2020": 50,
+      "Sat Mar 07 00:00:00 EST 2020": 109,
+      "Sun Mar 08 00:00:00 EST 2020": 169,
+      "Mon Mar 09 00:00:00 EDT 2020": 200,
+      "Tue Mar 10 00:00:00 EDT 2020": 239,
+      "Wed Mar 11 00:00:00 EDT 2020": 267,
+      "Thu Mar 12 00:00:00 EDT 2020": 314,
+      "Fri Mar 13 00:00:00 EDT 2020": 314
+    }
+  },
+  {
+    "code": "FIN",
+    "name": "Finland",
+    "boundingBox": {
+      "iso": "FIN",
+      "sw": {
+        "type": "sw",
+        "longitude": 19.0832098,
+        "latitude": 59.4541578
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 31.5867071,
+        "latitude": 70.0922939
+      }
+    },
+    "dayToCases": {
+      "Thu Jan 30 00:00:00 EST 2020": 1,
+      "Fri Jan 31 00:00:00 EST 2020": 1,
+      "Sat Feb 01 00:00:00 EST 2020": 1,
+      "Sun Feb 02 00:00:00 EST 2020": 1,
+      "Mon Feb 03 00:00:00 EST 2020": 1,
+      "Tue Feb 04 00:00:00 EST 2020": 1,
+      "Wed Feb 05 00:00:00 EST 2020": 1,
+      "Thu Feb 06 00:00:00 EST 2020": 1,
+      "Fri Feb 07 00:00:00 EST 2020": 1,
+      "Sat Feb 08 00:00:00 EST 2020": 1,
+      "Sun Feb 09 00:00:00 EST 2020": 1,
+      "Mon Feb 10 00:00:00 EST 2020": 1,
+      "Tue Feb 11 00:00:00 EST 2020": 1,
+      "Wed Feb 12 00:00:00 EST 2020": 1,
+      "Thu Feb 13 00:00:00 EST 2020": 1,
+      "Fri Feb 14 00:00:00 EST 2020": 1,
+      "Sat Feb 15 00:00:00 EST 2020": 1,
+      "Sun Feb 16 00:00:00 EST 2020": 1,
+      "Mon Feb 17 00:00:00 EST 2020": 1,
+      "Tue Feb 18 00:00:00 EST 2020": 1,
+      "Wed Feb 19 00:00:00 EST 2020": 1,
+      "Thu Feb 20 00:00:00 EST 2020": 1,
+      "Fri Feb 21 00:00:00 EST 2020": 1,
+      "Sat Feb 22 00:00:00 EST 2020": 1,
+      "Sun Feb 23 00:00:00 EST 2020": 1,
+      "Mon Feb 24 00:00:00 EST 2020": 1,
+      "Tue Feb 25 00:00:00 EST 2020": 1,
+      "Wed Feb 26 00:00:00 EST 2020": 1,
+      "Thu Feb 27 00:00:00 EST 2020": 2,
+      "Fri Feb 28 00:00:00 EST 2020": 2,
+      "Sat Feb 29 00:00:00 EST 2020": 2,
+      "Sun Mar 01 00:00:00 EST 2020": 2,
+      "Mon Mar 02 00:00:00 EST 2020": 6,
+      "Tue Mar 03 00:00:00 EST 2020": 7,
+      "Wed Mar 04 00:00:00 EST 2020": 7,
+      "Thu Mar 05 00:00:00 EST 2020": 7,
+      "Fri Mar 06 00:00:00 EST 2020": 12,
+      "Sat Mar 07 00:00:00 EST 2020": 19,
+      "Sun Mar 08 00:00:00 EST 2020": 19,
+      "Mon Mar 09 00:00:00 EDT 2020": 30,
+      "Tue Mar 10 00:00:00 EDT 2020": 40,
+      "Wed Mar 11 00:00:00 EDT 2020": 40,
+      "Thu Mar 12 00:00:00 EDT 2020": 40,
+      "Fri Mar 13 00:00:00 EDT 2020": 109
+    }
+  },
+  {
+    "code": "ZAF",
+    "name": "South Africa",
+    "boundingBox": {
+      "iso": "ZAF",
+      "sw": {
+        "type": "sw",
+        "longitude": 16.3335213,
+        "latitude": -47.1788335
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 38.2898954,
+        "latitude": -22.1250301
+      }
+    },
+    "dayToCases": {
+      "Fri Mar 06 00:00:00 EST 2020": 1,
+      "Sat Mar 07 00:00:00 EST 2020": 1,
+      "Sun Mar 08 00:00:00 EST 2020": 2,
+      "Mon Mar 09 00:00:00 EDT 2020": 3,
+      "Tue Mar 10 00:00:00 EDT 2020": 7,
+      "Wed Mar 11 00:00:00 EDT 2020": 7,
+      "Thu Mar 12 00:00:00 EDT 2020": 13,
+      "Fri Mar 13 00:00:00 EDT 2020": 17
+    }
+  },
+  {
+    "code": "GEO",
+    "name": "Georgia",
+    "boundingBox": {
+      "iso": "GEO",
+      "sw": {
+        "type": "sw",
+        "longitude": 39.8844803,
+        "latitude": 41.0552922
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 46.7365373,
+        "latitude": 43.5864294
+      }
+    },
+    "dayToCases": {
+      "Thu Feb 27 00:00:00 EST 2020": 1,
+      "Fri Feb 28 00:00:00 EST 2020": 1,
+      "Sat Feb 29 00:00:00 EST 2020": 2,
+      "Sun Mar 01 00:00:00 EST 2020": 3,
+      "Mon Mar 02 00:00:00 EST 2020": 3,
+      "Tue Mar 03 00:00:00 EST 2020": 3,
+      "Wed Mar 04 00:00:00 EST 2020": 3,
+      "Thu Mar 05 00:00:00 EST 2020": 3,
+      "Fri Mar 06 00:00:00 EST 2020": 9,
+      "Sat Mar 07 00:00:00 EST 2020": 9,
+      "Sun Mar 08 00:00:00 EST 2020": 12,
+      "Mon Mar 09 00:00:00 EDT 2020": 13,
+      "Tue Mar 10 00:00:00 EDT 2020": 15,
+      "Wed Mar 11 00:00:00 EDT 2020": 23,
+      "Thu Mar 12 00:00:00 EDT 2020": 23,
+      "Fri Mar 13 00:00:00 EDT 2020": 25
+    }
+  },
+  {
+    "code": "JAM",
+    "name": "Jamaica",
+    "boundingBox": {
+      "iso": "JAM",
+      "sw": {
+        "type": "sw",
+        "longitude": -78.5782366,
+        "latitude": 16.5899443
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": -75.7541143,
+        "latitude": 18.7256394
+      }
+    },
+    "dayToCases": {
+      "Wed Mar 11 00:00:00 EDT 2020": 1,
+      "Thu Mar 12 00:00:00 EDT 2020": 1,
+      "Fri Mar 13 00:00:00 EDT 2020": 1
+    }
+  },
+  {
+    "code": "PER",
+    "name": "Peru",
+    "boundingBox": {
+      "iso": "PER",
+      "sw": {
+        "type": "sw",
+        "longitude": -84.6356535,
+        "latitude": -20.1984472
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": -68.6519906,
+        "latitude": -0.0392818
+      }
+    },
+    "dayToCases": {
+      "Sat Mar 07 00:00:00 EST 2020": 1,
+      "Sun Mar 08 00:00:00 EST 2020": 6,
+      "Mon Mar 09 00:00:00 EDT 2020": 6,
+      "Tue Mar 10 00:00:00 EDT 2020": 9,
+      "Wed Mar 11 00:00:00 EDT 2020": 11,
+      "Thu Mar 12 00:00:00 EDT 2020": 17,
+      "Fri Mar 13 00:00:00 EDT 2020": 22
+    }
+  },
+  {
+    "code": "DEU",
+    "name": "Germany",
+    "boundingBox": {
+      "iso": "DEU",
+      "sw": {
+        "type": "sw",
+        "longitude": 5.8663153,
+        "latitude": 47.2701114
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 15.0419319,
+        "latitude": 55.099161
+      }
+    },
+    "dayToCases": {
+      "Tue Jan 28 00:00:00 EST 2020": 1,
+      "Wed Jan 29 00:00:00 EST 2020": 4,
+      "Thu Jan 30 00:00:00 EST 2020": 4,
+      "Fri Jan 31 00:00:00 EST 2020": 5,
+      "Sat Feb 01 00:00:00 EST 2020": 7,
+      "Sun Feb 02 00:00:00 EST 2020": 8,
+      "Mon Feb 03 00:00:00 EST 2020": 10,
+      "Tue Feb 04 00:00:00 EST 2020": 12,
+      "Wed Feb 05 00:00:00 EST 2020": 12,
+      "Thu Feb 06 00:00:00 EST 2020": 12,
+      "Fri Feb 07 00:00:00 EST 2020": 13,
+      "Sat Feb 08 00:00:00 EST 2020": 14,
+      "Sun Feb 09 00:00:00 EST 2020": 14,
+      "Mon Feb 10 00:00:00 EST 2020": 14,
+      "Tue Feb 11 00:00:00 EST 2020": 14,
+      "Wed Feb 12 00:00:00 EST 2020": 16,
+      "Thu Feb 13 00:00:00 EST 2020": 16,
+      "Fri Feb 14 00:00:00 EST 2020": 16,
+      "Sat Feb 15 00:00:00 EST 2020": 16,
+      "Sun Feb 16 00:00:00 EST 2020": 16,
+      "Mon Feb 17 00:00:00 EST 2020": 16,
+      "Tue Feb 18 00:00:00 EST 2020": 16,
+      "Wed Feb 19 00:00:00 EST 2020": 16,
+      "Thu Feb 20 00:00:00 EST 2020": 16,
+      "Fri Feb 21 00:00:00 EST 2020": 16,
+      "Sat Feb 22 00:00:00 EST 2020": 16,
+      "Sun Feb 23 00:00:00 EST 2020": 16,
+      "Mon Feb 24 00:00:00 EST 2020": 16,
+      "Tue Feb 25 00:00:00 EST 2020": 16,
+      "Wed Feb 26 00:00:00 EST 2020": 18,
+      "Thu Feb 27 00:00:00 EST 2020": 21,
+      "Fri Feb 28 00:00:00 EST 2020": 26,
+      "Sat Feb 29 00:00:00 EST 2020": 57,
+      "Sun Mar 01 00:00:00 EST 2020": 57,
+      "Mon Mar 02 00:00:00 EST 2020": 129,
+      "Tue Mar 03 00:00:00 EST 2020": 157,
+      "Wed Mar 04 00:00:00 EST 2020": 196,
+      "Thu Mar 05 00:00:00 EST 2020": 262,
+      "Fri Mar 06 00:00:00 EST 2020": 534,
+      "Sat Mar 07 00:00:00 EST 2020": 639,
+      "Sun Mar 08 00:00:00 EST 2020": 795,
+      "Mon Mar 09 00:00:00 EDT 2020": 1112,
+      "Tue Mar 10 00:00:00 EDT 2020": 1139,
+      "Wed Mar 11 00:00:00 EDT 2020": 1296,
+      "Thu Mar 12 00:00:00 EDT 2020": 1567,
+      "Fri Mar 13 00:00:00 EDT 2020": 2369
+    }
+  },
+  {
+    "code": "USA",
+    "name": "United States",
+    "boundingBox": {
+      "iso": "USA",
+      "sw": {
+        "type": "sw",
+        "longitude": -125.0011,
+        "latitude": 24.9493
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": -66.9326,
+        "latitude": 49.5904
+      }
+    },
+    "dayToCases": {
+      "Thu Jan 23 00:00:00 EST 2020": 1,
+      "Fri Jan 24 00:00:00 EST 2020": 1,
+      "Sat Jan 25 00:00:00 EST 2020": 2,
+      "Sun Jan 26 00:00:00 EST 2020": 2,
+      "Mon Jan 27 00:00:00 EST 2020": 5,
+      "Tue Jan 28 00:00:00 EST 2020": 5,
+      "Wed Jan 29 00:00:00 EST 2020": 5,
+      "Thu Jan 30 00:00:00 EST 2020": 5,
+      "Fri Jan 31 00:00:00 EST 2020": 6,
+      "Sat Feb 01 00:00:00 EST 2020": 7,
+      "Sun Feb 02 00:00:00 EST 2020": 8,
+      "Mon Feb 03 00:00:00 EST 2020": 11,
+      "Tue Feb 04 00:00:00 EST 2020": 11,
+      "Wed Feb 05 00:00:00 EST 2020": 11,
+      "Thu Feb 06 00:00:00 EST 2020": 12,
+      "Fri Feb 07 00:00:00 EST 2020": 12,
+      "Sat Feb 08 00:00:00 EST 2020": 12,
+      "Sun Feb 09 00:00:00 EST 2020": 12,
+      "Mon Feb 10 00:00:00 EST 2020": 12,
+      "Tue Feb 11 00:00:00 EST 2020": 13,
+      "Wed Feb 12 00:00:00 EST 2020": 13,
+      "Thu Feb 13 00:00:00 EST 2020": 14,
+      "Fri Feb 14 00:00:00 EST 2020": 15,
+      "Sat Feb 15 00:00:00 EST 2020": 15,
+      "Sun Feb 16 00:00:00 EST 2020": 15,
+      "Mon Feb 17 00:00:00 EST 2020": 15,
+      "Tue Feb 18 00:00:00 EST 2020": 15,
+      "Wed Feb 19 00:00:00 EST 2020": 15,
+      "Thu Feb 20 00:00:00 EST 2020": 15,
+      "Fri Feb 21 00:00:00 EST 2020": 15,
+      "Sat Feb 22 00:00:00 EST 2020": 35,
+      "Sun Feb 23 00:00:00 EST 2020": 35,
+      "Mon Feb 24 00:00:00 EST 2020": 35,
+      "Tue Feb 25 00:00:00 EST 2020": 53,
+      "Wed Feb 26 00:00:00 EST 2020": 53,
+      "Thu Feb 27 00:00:00 EST 2020": 59,
+      "Fri Feb 28 00:00:00 EST 2020": 59,
+      "Sat Feb 29 00:00:00 EST 2020": 62,
+      "Sun Mar 01 00:00:00 EST 2020": 62,
+      "Mon Mar 02 00:00:00 EST 2020": 62,
+      "Tue Mar 03 00:00:00 EST 2020": 64,
+      "Wed Mar 04 00:00:00 EST 2020": 108,
+      "Thu Mar 05 00:00:00 EST 2020": 129,
+      "Fri Mar 06 00:00:00 EST 2020": 148,
+      "Sat Mar 07 00:00:00 EST 2020": 213,
+      "Sun Mar 08 00:00:00 EST 2020": 213,
+      "Mon Mar 09 00:00:00 EDT 2020": 213,
+      "Tue Mar 10 00:00:00 EDT 2020": 472,
+      "Wed Mar 11 00:00:00 EDT 2020": 696,
+      "Thu Mar 12 00:00:00 EDT 2020": 987,
+      "Fri Mar 13 00:00:00 EDT 2020": 1264
+    }
+  },
+  {
+    "code": "THA",
+    "name": "Thailand",
+    "boundingBox": {
+      "iso": "THA",
+      "sw": {
+        "type": "sw",
+        "longitude": 97.3438072,
+        "latitude": 5.612851
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 105.636812,
+        "latitude": 20.4648337
+      }
+    },
+    "dayToCases": {
+      "Tue Jan 21 00:00:00 EST 2020": 2,
+      "Wed Jan 22 00:00:00 EST 2020": 2,
+      "Thu Jan 23 00:00:00 EST 2020": 4,
+      "Fri Jan 24 00:00:00 EST 2020": 4,
+      "Sat Jan 25 00:00:00 EST 2020": 4,
+      "Sun Jan 26 00:00:00 EST 2020": 5,
+      "Mon Jan 27 00:00:00 EST 2020": 5,
+      "Tue Jan 28 00:00:00 EST 2020": 14,
+      "Wed Jan 29 00:00:00 EST 2020": 14,
+      "Thu Jan 30 00:00:00 EST 2020": 14,
+      "Fri Jan 31 00:00:00 EST 2020": 14,
+      "Sat Feb 01 00:00:00 EST 2020": 19,
+      "Sun Feb 02 00:00:00 EST 2020": 19,
+      "Mon Feb 03 00:00:00 EST 2020": 19,
+      "Tue Feb 04 00:00:00 EST 2020": 19,
+      "Wed Feb 05 00:00:00 EST 2020": 25,
+      "Thu Feb 06 00:00:00 EST 2020": 25,
+      "Fri Feb 07 00:00:00 EST 2020": 25,
+      "Sat Feb 08 00:00:00 EST 2020": 32,
+      "Sun Feb 09 00:00:00 EST 2020": 32,
+      "Mon Feb 10 00:00:00 EST 2020": 32,
+      "Tue Feb 11 00:00:00 EST 2020": 33,
+      "Wed Feb 12 00:00:00 EST 2020": 33,
+      "Thu Feb 13 00:00:00 EST 2020": 33,
+      "Fri Feb 14 00:00:00 EST 2020": 33,
+      "Sat Feb 15 00:00:00 EST 2020": 34,
+      "Sun Feb 16 00:00:00 EST 2020": 34,
+      "Mon Feb 17 00:00:00 EST 2020": 35,
+      "Tue Feb 18 00:00:00 EST 2020": 35,
+      "Wed Feb 19 00:00:00 EST 2020": 35,
+      "Thu Feb 20 00:00:00 EST 2020": 35,
+      "Fri Feb 21 00:00:00 EST 2020": 35,
+      "Sat Feb 22 00:00:00 EST 2020": 35,
+      "Sun Feb 23 00:00:00 EST 2020": 35,
+      "Mon Feb 24 00:00:00 EST 2020": 35,
+      "Tue Feb 25 00:00:00 EST 2020": 37,
+      "Wed Feb 26 00:00:00 EST 2020": 40,
+      "Thu Feb 27 00:00:00 EST 2020": 40,
+      "Fri Feb 28 00:00:00 EST 2020": 40,
+      "Sat Feb 29 00:00:00 EST 2020": 42,
+      "Sun Mar 01 00:00:00 EST 2020": 42,
+      "Mon Mar 02 00:00:00 EST 2020": 42,
+      "Tue Mar 03 00:00:00 EST 2020": 43,
+      "Wed Mar 04 00:00:00 EST 2020": 43,
+      "Thu Mar 05 00:00:00 EST 2020": 47,
+      "Fri Mar 06 00:00:00 EST 2020": 47,
+      "Sat Mar 07 00:00:00 EST 2020": 48,
+      "Sun Mar 08 00:00:00 EST 2020": 50,
+      "Mon Mar 09 00:00:00 EDT 2020": 50,
+      "Tue Mar 10 00:00:00 EDT 2020": 53,
+      "Wed Mar 11 00:00:00 EDT 2020": 59,
+      "Thu Mar 12 00:00:00 EDT 2020": 70,
+      "Fri Mar 13 00:00:00 EDT 2020": 75
+    }
+  },
+  {
+    "code": "CRI",
+    "name": "Costa Rica",
+    "boundingBox": {
+      "iso": "CRI",
+      "sw": {
+        "type": "sw",
+        "longitude": -87.2722647,
+        "latitude": 5.3329698
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": -82.5060208,
+        "latitude": 11.2195684
+      }
+    },
+    "dayToCases": {
+      "Sun Mar 08 00:00:00 EST 2020": 5,
+      "Mon Mar 09 00:00:00 EDT 2020": 9,
+      "Tue Mar 10 00:00:00 EDT 2020": 9,
+      "Wed Mar 11 00:00:00 EDT 2020": 13,
+      "Thu Mar 12 00:00:00 EDT 2020": 13,
+      "Fri Mar 13 00:00:00 EDT 2020": 22
+    }
+  },
+  {
+    "code": "SWE",
+    "name": "Sweden",
+    "boundingBox": {
+      "iso": "SWE",
+      "sw": {
+        "type": "sw",
+        "longitude": 10.5930952,
+        "latitude": 55.1331192
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 24.1776819,
+        "latitude": 69.0599699
+      }
+    },
+    "dayToCases": {
+      "Sat Feb 01 00:00:00 EST 2020": 1,
+      "Sun Feb 02 00:00:00 EST 2020": 1,
+      "Mon Feb 03 00:00:00 EST 2020": 1,
+      "Tue Feb 04 00:00:00 EST 2020": 1,
+      "Wed Feb 05 00:00:00 EST 2020": 1,
+      "Thu Feb 06 00:00:00 EST 2020": 1,
+      "Fri Feb 07 00:00:00 EST 2020": 1,
+      "Sat Feb 08 00:00:00 EST 2020": 1,
+      "Sun Feb 09 00:00:00 EST 2020": 1,
+      "Mon Feb 10 00:00:00 EST 2020": 1,
+      "Tue Feb 11 00:00:00 EST 2020": 1,
+      "Wed Feb 12 00:00:00 EST 2020": 1,
+      "Thu Feb 13 00:00:00 EST 2020": 1,
+      "Fri Feb 14 00:00:00 EST 2020": 1,
+      "Sat Feb 15 00:00:00 EST 2020": 1,
+      "Sun Feb 16 00:00:00 EST 2020": 1,
+      "Mon Feb 17 00:00:00 EST 2020": 1,
+      "Tue Feb 18 00:00:00 EST 2020": 1,
+      "Wed Feb 19 00:00:00 EST 2020": 1,
+      "Thu Feb 20 00:00:00 EST 2020": 1,
+      "Fri Feb 21 00:00:00 EST 2020": 1,
+      "Sat Feb 22 00:00:00 EST 2020": 1,
+      "Sun Feb 23 00:00:00 EST 2020": 1,
+      "Mon Feb 24 00:00:00 EST 2020": 1,
+      "Tue Feb 25 00:00:00 EST 2020": 1,
+      "Wed Feb 26 00:00:00 EST 2020": 1,
+      "Thu Feb 27 00:00:00 EST 2020": 2,
+      "Fri Feb 28 00:00:00 EST 2020": 7,
+      "Sat Feb 29 00:00:00 EST 2020": 12,
+      "Sun Mar 01 00:00:00 EST 2020": 13,
+      "Mon Mar 02 00:00:00 EST 2020": 14,
+      "Tue Mar 03 00:00:00 EST 2020": 15,
+      "Wed Mar 04 00:00:00 EST 2020": 24,
+      "Thu Mar 05 00:00:00 EST 2020": 35,
+      "Fri Mar 06 00:00:00 EST 2020": 61,
+      "Sat Mar 07 00:00:00 EST 2020": 137,
+      "Sun Mar 08 00:00:00 EST 2020": 161,
+      "Mon Mar 09 00:00:00 EDT 2020": 203,
+      "Tue Mar 10 00:00:00 EDT 2020": 248,
+      "Wed Mar 11 00:00:00 EDT 2020": 326,
+      "Thu Mar 12 00:00:00 EDT 2020": 461,
+      "Fri Mar 13 00:00:00 EDT 2020": 620
+    }
+  },
+  {
+    "code": "VNM",
+    "name": "Vietnam",
+    "boundingBox": {
+      "iso": "VNM",
+      "sw": {
+        "type": "sw",
+        "longitude": 102.14441,
+        "latitude": 8.1790665
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 114.3337595,
+        "latitude": 23.393395
+      }
+    },
+    "dayToCases": {
+      "Fri Jan 24 00:00:00 EST 2020": 2,
+      "Sat Jan 25 00:00:00 EST 2020": 2,
+      "Sun Jan 26 00:00:00 EST 2020": 2,
+      "Mon Jan 27 00:00:00 EST 2020": 2,
+      "Tue Jan 28 00:00:00 EST 2020": 2,
+      "Wed Jan 29 00:00:00 EST 2020": 2,
+      "Thu Jan 30 00:00:00 EST 2020": 2,
+      "Fri Jan 31 00:00:00 EST 2020": 5,
+      "Sat Feb 01 00:00:00 EST 2020": 6,
+      "Sun Feb 02 00:00:00 EST 2020": 7,
+      "Mon Feb 03 00:00:00 EST 2020": 8,
+      "Tue Feb 04 00:00:00 EST 2020": 9,
+      "Wed Feb 05 00:00:00 EST 2020": 10,
+      "Thu Feb 06 00:00:00 EST 2020": 10,
+      "Fri Feb 07 00:00:00 EST 2020": 12,
+      "Sat Feb 08 00:00:00 EST 2020": 13,
+      "Sun Feb 09 00:00:00 EST 2020": 14,
+      "Mon Feb 10 00:00:00 EST 2020": 14,
+      "Tue Feb 11 00:00:00 EST 2020": 15,
+      "Wed Feb 12 00:00:00 EST 2020": 15,
+      "Thu Feb 13 00:00:00 EST 2020": 16,
+      "Fri Feb 14 00:00:00 EST 2020": 16,
+      "Sat Feb 15 00:00:00 EST 2020": 16,
+      "Sun Feb 16 00:00:00 EST 2020": 16,
+      "Mon Feb 17 00:00:00 EST 2020": 16,
+      "Tue Feb 18 00:00:00 EST 2020": 16,
+      "Wed Feb 19 00:00:00 EST 2020": 16,
+      "Thu Feb 20 00:00:00 EST 2020": 16,
+      "Fri Feb 21 00:00:00 EST 2020": 16,
+      "Sat Feb 22 00:00:00 EST 2020": 16,
+      "Sun Feb 23 00:00:00 EST 2020": 16,
+      "Mon Feb 24 00:00:00 EST 2020": 16,
+      "Tue Feb 25 00:00:00 EST 2020": 16,
+      "Wed Feb 26 00:00:00 EST 2020": 16,
+      "Thu Feb 27 00:00:00 EST 2020": 16,
+      "Fri Feb 28 00:00:00 EST 2020": 16,
+      "Sat Feb 29 00:00:00 EST 2020": 16,
+      "Sun Mar 01 00:00:00 EST 2020": 16,
+      "Mon Mar 02 00:00:00 EST 2020": 16,
+      "Tue Mar 03 00:00:00 EST 2020": 16,
+      "Wed Mar 04 00:00:00 EST 2020": 16,
+      "Thu Mar 05 00:00:00 EST 2020": 16,
+      "Fri Mar 06 00:00:00 EST 2020": 16,
+      "Sat Mar 07 00:00:00 EST 2020": 17,
+      "Sun Mar 08 00:00:00 EST 2020": 21,
+      "Mon Mar 09 00:00:00 EDT 2020": 30,
+      "Tue Mar 10 00:00:00 EDT 2020": 31,
+      "Wed Mar 11 00:00:00 EDT 2020": 35,
+      "Thu Mar 12 00:00:00 EDT 2020": 39,
+      "Fri Mar 13 00:00:00 EDT 2020": 39
+    }
+  },
+  {
+    "code": "AND",
+    "name": "Andorra",
+    "boundingBox": {
+      "iso": "AND",
+      "sw": {
+        "type": "sw",
+        "longitude": 1.4135781,
+        "latitude": 42.4288238
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 1.7863837,
+        "latitude": 42.6559357
+      }
+    },
+    "dayToCases": {
+      "Tue Mar 03 00:00:00 EST 2020": 1,
+      "Wed Mar 04 00:00:00 EST 2020": 1,
+      "Thu Mar 05 00:00:00 EST 2020": 1,
+      "Fri Mar 06 00:00:00 EST 2020": 1,
+      "Sat Mar 07 00:00:00 EST 2020": 1,
+      "Sun Mar 08 00:00:00 EST 2020": 1,
+      "Mon Mar 09 00:00:00 EDT 2020": 1,
+      "Tue Mar 10 00:00:00 EDT 2020": 1,
+      "Wed Mar 11 00:00:00 EDT 2020": 1,
+      "Thu Mar 12 00:00:00 EDT 2020": 1,
+      "Fri Mar 13 00:00:00 EDT 2020": 1
+    }
+  },
+  {
+    "code": "LIE",
+    "name": "Liechtenstein",
+    "boundingBox": {
+      "iso": "LIE",
+      "sw": {
+        "type": "sw",
+        "longitude": 9.4716736,
+        "latitude": 47.0484291
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 9.6357143,
+        "latitude": 47.270581
+      }
+    },
+    "dayToCases": {
+      "Thu Mar 05 00:00:00 EST 2020": 1,
+      "Fri Mar 06 00:00:00 EST 2020": 1,
+      "Sat Mar 07 00:00:00 EST 2020": 1,
+      "Sun Mar 08 00:00:00 EST 2020": 1,
+      "Mon Mar 09 00:00:00 EDT 2020": 1,
+      "Tue Mar 10 00:00:00 EDT 2020": 1,
+      "Wed Mar 11 00:00:00 EDT 2020": 1,
+      "Thu Mar 12 00:00:00 EDT 2020": 1,
+      "Fri Mar 13 00:00:00 EDT 2020": 4
+    }
+  },
+  {
+    "code": "POL",
+    "name": "Poland",
+    "boundingBox": {
+      "iso": "POL",
+      "sw": {
+        "type": "sw",
+        "longitude": 14.1229707,
+        "latitude": 49.0020468
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 24.145783,
+        "latitude": 55.0336963
+      }
+    },
+    "dayToCases": {
+      "Wed Mar 04 00:00:00 EST 2020": 1,
+      "Thu Mar 05 00:00:00 EST 2020": 1,
+      "Fri Mar 06 00:00:00 EST 2020": 1,
+      "Sat Mar 07 00:00:00 EST 2020": 5,
+      "Sun Mar 08 00:00:00 EST 2020": 6,
+      "Mon Mar 09 00:00:00 EDT 2020": 11,
+      "Tue Mar 10 00:00:00 EDT 2020": 16,
+      "Wed Mar 11 00:00:00 EDT 2020": 22,
+      "Thu Mar 12 00:00:00 EDT 2020": 44,
+      "Fri Mar 13 00:00:00 EDT 2020": 49
+    }
+  },
+  {
+    "code": "BGR",
+    "name": "Bulgaria",
+    "boundingBox": {
+      "iso": "BGR",
+      "sw": {
+        "type": "sw",
+        "longitude": 22.3571459,
+        "latitude": 41.2353929
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 28.8875409,
+        "latitude": 44.2167064
+      }
+    },
+    "dayToCases": {
+      "Sun Mar 08 00:00:00 EST 2020": 2,
+      "Mon Mar 09 00:00:00 EDT 2020": 4,
+      "Tue Mar 10 00:00:00 EDT 2020": 4,
+      "Wed Mar 11 00:00:00 EDT 2020": 6,
+      "Thu Mar 12 00:00:00 EDT 2020": 7,
+      "Fri Mar 13 00:00:00 EDT 2020": 7
+    }
+  },
+  {
+    "code": "JOR",
+    "name": "Jordan",
+    "boundingBox": {
+      "iso": "JOR",
+      "sw": {
+        "type": "sw",
+        "longitude": 34.8844372,
+        "latitude": 29.183401
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 39.3012981,
+        "latitude": 33.3750617
+      }
+    },
+    "dayToCases": {
+      "Tue Mar 03 00:00:00 EST 2020": 1,
+      "Wed Mar 04 00:00:00 EST 2020": 1,
+      "Thu Mar 05 00:00:00 EST 2020": 1,
+      "Fri Mar 06 00:00:00 EST 2020": 1,
+      "Sat Mar 07 00:00:00 EST 2020": 1,
+      "Sun Mar 08 00:00:00 EST 2020": 1,
+      "Mon Mar 09 00:00:00 EDT 2020": 1,
+      "Tue Mar 10 00:00:00 EDT 2020": 1,
+      "Wed Mar 11 00:00:00 EDT 2020": 1,
+      "Thu Mar 12 00:00:00 EDT 2020": 1,
+      "Fri Mar 13 00:00:00 EDT 2020": 1
+    }
+  },
+  {
+    "code": "KWT",
+    "name": "Kuwait",
+    "boundingBox": {
+      "iso": "KWT",
+      "sw": {
+        "type": "sw",
+        "longitude": 46.5526837,
+        "latitude": 28.5243622
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 49.0046809,
+        "latitude": 30.1038082
+      }
+    },
+    "dayToCases": {
+      "Mon Feb 24 00:00:00 EST 2020": 3,
+      "Tue Feb 25 00:00:00 EST 2020": 8,
+      "Wed Feb 26 00:00:00 EST 2020": 12,
+      "Thu Feb 27 00:00:00 EST 2020": 43,
+      "Fri Feb 28 00:00:00 EST 2020": 43,
+      "Sat Feb 29 00:00:00 EST 2020": 45,
+      "Sun Mar 01 00:00:00 EST 2020": 45,
+      "Mon Mar 02 00:00:00 EST 2020": 56,
+      "Tue Mar 03 00:00:00 EST 2020": 56,
+      "Wed Mar 04 00:00:00 EST 2020": 56,
+      "Thu Mar 05 00:00:00 EST 2020": 58,
+      "Fri Mar 06 00:00:00 EST 2020": 58,
+      "Sat Mar 07 00:00:00 EST 2020": 58,
+      "Sun Mar 08 00:00:00 EST 2020": 62,
+      "Mon Mar 09 00:00:00 EDT 2020": 64,
+      "Tue Mar 10 00:00:00 EDT 2020": 65,
+      "Wed Mar 11 00:00:00 EDT 2020": 69,
+      "Thu Mar 12 00:00:00 EDT 2020": 80,
+      "Fri Mar 13 00:00:00 EDT 2020": 80
+    }
+  },
+  {
+    "code": "NGA",
+    "name": "Nigeria",
+    "boundingBox": {
+      "iso": "NGA",
+      "sw": {
+        "type": "sw",
+        "longitude": 2.676932,
+        "latitude": 4.0690959
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 14.678014,
+        "latitude": 13.885645
+      }
+    },
+    "dayToCases": {
+      "Fri Feb 28 00:00:00 EST 2020": 1,
+      "Sat Feb 29 00:00:00 EST 2020": 1,
+      "Sun Mar 01 00:00:00 EST 2020": 1,
+      "Mon Mar 02 00:00:00 EST 2020": 1,
+      "Tue Mar 03 00:00:00 EST 2020": 1,
+      "Wed Mar 04 00:00:00 EST 2020": 1,
+      "Thu Mar 05 00:00:00 EST 2020": 1,
+      "Fri Mar 06 00:00:00 EST 2020": 1,
+      "Sat Mar 07 00:00:00 EST 2020": 1,
+      "Sun Mar 08 00:00:00 EST 2020": 1,
+      "Mon Mar 09 00:00:00 EDT 2020": 2,
+      "Tue Mar 10 00:00:00 EDT 2020": 2,
+      "Wed Mar 11 00:00:00 EDT 2020": 2,
+      "Thu Mar 12 00:00:00 EDT 2020": 2,
+      "Fri Mar 13 00:00:00 EDT 2020": 2
+    }
+  },
+  {
+    "code": "TUN",
+    "name": "Tunisia",
+    "boundingBox": {
+      "iso": "TUN",
+      "sw": {
+        "type": "sw",
+        "longitude": 7.5219807,
+        "latitude": 30.230236
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 11.8801133,
+        "latitude": 37.7612052
+      }
+    },
+    "dayToCases": {
+      "Tue Mar 03 00:00:00 EST 2020": 1,
+      "Wed Mar 04 00:00:00 EST 2020": 1,
+      "Thu Mar 05 00:00:00 EST 2020": 1,
+      "Fri Mar 06 00:00:00 EST 2020": 1,
+      "Sat Mar 07 00:00:00 EST 2020": 1,
+      "Sun Mar 08 00:00:00 EST 2020": 1,
+      "Mon Mar 09 00:00:00 EDT 2020": 2,
+      "Tue Mar 10 00:00:00 EDT 2020": 2,
+      "Wed Mar 11 00:00:00 EDT 2020": 6,
+      "Thu Mar 12 00:00:00 EDT 2020": 6,
+      "Fri Mar 13 00:00:00 EDT 2020": 7
+    }
+  },
+  {
+    "code": "HRV",
+    "name": "Croatia",
+    "boundingBox": {
+      "iso": "HRV",
+      "sw": {
+        "type": "sw",
+        "longitude": 13.2104814,
+        "latitude": 42.1765993
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 19.4470842,
+        "latitude": 46.555029
+      }
+    },
+    "dayToCases": {
+      "Wed Feb 26 00:00:00 EST 2020": 2,
+      "Thu Feb 27 00:00:00 EST 2020": 3,
+      "Fri Feb 28 00:00:00 EST 2020": 3,
+      "Sat Feb 29 00:00:00 EST 2020": 5,
+      "Sun Mar 01 00:00:00 EST 2020": 7,
+      "Mon Mar 02 00:00:00 EST 2020": 7,
+      "Tue Mar 03 00:00:00 EST 2020": 8,
+      "Wed Mar 04 00:00:00 EST 2020": 9,
+      "Thu Mar 05 00:00:00 EST 2020": 9,
+      "Fri Mar 06 00:00:00 EST 2020": 10,
+      "Sat Mar 07 00:00:00 EST 2020": 11,
+      "Sun Mar 08 00:00:00 EST 2020": 11,
+      "Mon Mar 09 00:00:00 EDT 2020": 11,
+      "Tue Mar 10 00:00:00 EDT 2020": 12,
+      "Wed Mar 11 00:00:00 EDT 2020": 16,
+      "Thu Mar 12 00:00:00 EDT 2020": 16,
+      "Fri Mar 13 00:00:00 EDT 2020": 16
+    }
+  },
+  {
+    "code": "LKA",
+    "name": "Sri Lanka",
+    "boundingBox": {
+      "iso": "LKA",
+      "sw": {
+        "type": "sw",
+        "longitude": 79.3959205,
+        "latitude": 5.719
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 82.0810141,
+        "latitude": 10.035
+      }
+    },
+    "dayToCases": {
+      "Tue Jan 28 00:00:00 EST 2020": 1,
+      "Wed Jan 29 00:00:00 EST 2020": 1,
+      "Thu Jan 30 00:00:00 EST 2020": 1,
+      "Fri Jan 31 00:00:00 EST 2020": 1,
+      "Sat Feb 01 00:00:00 EST 2020": 1,
+      "Sun Feb 02 00:00:00 EST 2020": 1,
+      "Mon Feb 03 00:00:00 EST 2020": 1,
+      "Tue Feb 04 00:00:00 EST 2020": 1,
+      "Wed Feb 05 00:00:00 EST 2020": 1,
+      "Thu Feb 06 00:00:00 EST 2020": 1,
+      "Fri Feb 07 00:00:00 EST 2020": 1,
+      "Sat Feb 08 00:00:00 EST 2020": 1,
+      "Sun Feb 09 00:00:00 EST 2020": 1,
+      "Mon Feb 10 00:00:00 EST 2020": 1,
+      "Tue Feb 11 00:00:00 EST 2020": 1,
+      "Wed Feb 12 00:00:00 EST 2020": 1,
+      "Thu Feb 13 00:00:00 EST 2020": 1,
+      "Fri Feb 14 00:00:00 EST 2020": 1,
+      "Sat Feb 15 00:00:00 EST 2020": 1,
+      "Sun Feb 16 00:00:00 EST 2020": 1,
+      "Mon Feb 17 00:00:00 EST 2020": 1,
+      "Tue Feb 18 00:00:00 EST 2020": 1,
+      "Wed Feb 19 00:00:00 EST 2020": 1,
+      "Thu Feb 20 00:00:00 EST 2020": 1,
+      "Fri Feb 21 00:00:00 EST 2020": 1,
+      "Sat Feb 22 00:00:00 EST 2020": 1,
+      "Sun Feb 23 00:00:00 EST 2020": 1,
+      "Mon Feb 24 00:00:00 EST 2020": 1,
+      "Tue Feb 25 00:00:00 EST 2020": 1,
+      "Wed Feb 26 00:00:00 EST 2020": 1,
+      "Thu Feb 27 00:00:00 EST 2020": 1,
+      "Fri Feb 28 00:00:00 EST 2020": 1,
+      "Sat Feb 29 00:00:00 EST 2020": 1,
+      "Sun Mar 01 00:00:00 EST 2020": 1,
+      "Mon Mar 02 00:00:00 EST 2020": 1,
+      "Tue Mar 03 00:00:00 EST 2020": 1,
+      "Wed Mar 04 00:00:00 EST 2020": 1,
+      "Thu Mar 05 00:00:00 EST 2020": 1,
+      "Fri Mar 06 00:00:00 EST 2020": 1,
+      "Sat Mar 07 00:00:00 EST 2020": 1,
+      "Sun Mar 08 00:00:00 EST 2020": 1,
+      "Mon Mar 09 00:00:00 EDT 2020": 1,
+      "Tue Mar 10 00:00:00 EDT 2020": 1,
+      "Wed Mar 11 00:00:00 EDT 2020": 1,
+      "Thu Mar 12 00:00:00 EDT 2020": 2,
+      "Fri Mar 13 00:00:00 EDT 2020": 3
+    }
+  },
+  {
+    "code": "GBR",
+    "name": "United Kingdom",
+    "boundingBox": {
+      "iso": "GBR",
+      "sw": {
+        "type": "sw",
+        "longitude": -14.015517,
+        "latitude": 49.674
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 2.0919117,
+        "latitude": 61.061
+      }
+    },
+    "dayToCases": {
+      "Sat Feb 01 00:00:00 EST 2020": 2,
+      "Sun Feb 02 00:00:00 EST 2020": 2,
+      "Mon Feb 03 00:00:00 EST 2020": 2,
+      "Tue Feb 04 00:00:00 EST 2020": 2,
+      "Wed Feb 05 00:00:00 EST 2020": 2,
+      "Thu Feb 06 00:00:00 EST 2020": 2,
+      "Fri Feb 07 00:00:00 EST 2020": 3,
+      "Sat Feb 08 00:00:00 EST 2020": 3,
+      "Sun Feb 09 00:00:00 EST 2020": 3,
+      "Mon Feb 10 00:00:00 EST 2020": 4,
+      "Tue Feb 11 00:00:00 EST 2020": 8,
+      "Wed Feb 12 00:00:00 EST 2020": 8,
+      "Thu Feb 13 00:00:00 EST 2020": 9,
+      "Fri Feb 14 00:00:00 EST 2020": 9,
+      "Sat Feb 15 00:00:00 EST 2020": 9,
+      "Sun Feb 16 00:00:00 EST 2020": 9,
+      "Mon Feb 17 00:00:00 EST 2020": 9,
+      "Tue Feb 18 00:00:00 EST 2020": 9,
+      "Wed Feb 19 00:00:00 EST 2020": 9,
+      "Thu Feb 20 00:00:00 EST 2020": 9,
+      "Fri Feb 21 00:00:00 EST 2020": 9,
+      "Sat Feb 22 00:00:00 EST 2020": 9,
+      "Sun Feb 23 00:00:00 EST 2020": 9,
+      "Mon Feb 24 00:00:00 EST 2020": 9,
+      "Tue Feb 25 00:00:00 EST 2020": 13,
+      "Wed Feb 26 00:00:00 EST 2020": 13,
+      "Thu Feb 27 00:00:00 EST 2020": 13,
+      "Fri Feb 28 00:00:00 EST 2020": 16,
+      "Sat Feb 29 00:00:00 EST 2020": 20,
+      "Sun Mar 01 00:00:00 EST 2020": 23,
+      "Mon Mar 02 00:00:00 EST 2020": 36,
+      "Tue Mar 03 00:00:00 EST 2020": 39,
+      "Wed Mar 04 00:00:00 EST 2020": 51,
+      "Thu Mar 05 00:00:00 EST 2020": 89,
+      "Fri Mar 06 00:00:00 EST 2020": 118,
+      "Sat Mar 07 00:00:00 EST 2020": 167,
+      "Sun Mar 08 00:00:00 EST 2020": 210,
+      "Mon Mar 09 00:00:00 EDT 2020": 277,
+      "Tue Mar 10 00:00:00 EDT 2020": 323,
+      "Wed Mar 11 00:00:00 EDT 2020": 373,
+      "Thu Mar 12 00:00:00 EDT 2020": 460,
+      "Fri Mar 13 00:00:00 EDT 2020": 594
+    }
+  },
+  {
+    "code": "ARE",
+    "name": "United Arab Emirates",
+    "boundingBox": {
+      "iso": "ARE",
+      "sw": {
+        "type": "sw",
+        "longitude": 51.498,
+        "latitude": 22.6444
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 56.3834,
+        "latitude": 26.2822
+      }
+    },
+    "dayToCases": {
+      "Wed Jan 29 00:00:00 EST 2020": 4,
+      "Thu Jan 30 00:00:00 EST 2020": 4,
+      "Fri Jan 31 00:00:00 EST 2020": 4,
+      "Sat Feb 01 00:00:00 EST 2020": 4,
+      "Sun Feb 02 00:00:00 EST 2020": 5,
+      "Mon Feb 03 00:00:00 EST 2020": 5,
+      "Tue Feb 04 00:00:00 EST 2020": 5,
+      "Wed Feb 05 00:00:00 EST 2020": 5,
+      "Thu Feb 06 00:00:00 EST 2020": 5,
+      "Fri Feb 07 00:00:00 EST 2020": 5,
+      "Sat Feb 08 00:00:00 EST 2020": 7,
+      "Sun Feb 09 00:00:00 EST 2020": 7,
+      "Mon Feb 10 00:00:00 EST 2020": 7,
+      "Tue Feb 11 00:00:00 EST 2020": 8,
+      "Wed Feb 12 00:00:00 EST 2020": 8,
+      "Thu Feb 13 00:00:00 EST 2020": 8,
+      "Fri Feb 14 00:00:00 EST 2020": 8,
+      "Sat Feb 15 00:00:00 EST 2020": 8,
+      "Sun Feb 16 00:00:00 EST 2020": 8,
+      "Mon Feb 17 00:00:00 EST 2020": 9,
+      "Tue Feb 18 00:00:00 EST 2020": 9,
+      "Wed Feb 19 00:00:00 EST 2020": 9,
+      "Thu Feb 20 00:00:00 EST 2020": 9,
+      "Fri Feb 21 00:00:00 EST 2020": 9,
+      "Sat Feb 22 00:00:00 EST 2020": 11,
+      "Sun Feb 23 00:00:00 EST 2020": 13,
+      "Mon Feb 24 00:00:00 EST 2020": 13,
+      "Tue Feb 25 00:00:00 EST 2020": 13,
+      "Wed Feb 26 00:00:00 EST 2020": 13,
+      "Thu Feb 27 00:00:00 EST 2020": 13,
+      "Fri Feb 28 00:00:00 EST 2020": 19,
+      "Sat Feb 29 00:00:00 EST 2020": 19,
+      "Sun Mar 01 00:00:00 EST 2020": 19,
+      "Mon Mar 02 00:00:00 EST 2020": 21,
+      "Tue Mar 03 00:00:00 EST 2020": 21,
+      "Wed Mar 04 00:00:00 EST 2020": 27,
+      "Thu Mar 05 00:00:00 EST 2020": 27,
+      "Fri Mar 06 00:00:00 EST 2020": 27,
+      "Sat Mar 07 00:00:00 EST 2020": 45,
+      "Sun Mar 08 00:00:00 EST 2020": 45,
+      "Mon Mar 09 00:00:00 EDT 2020": 45,
+      "Tue Mar 10 00:00:00 EDT 2020": 59,
+      "Wed Mar 11 00:00:00 EDT 2020": 74,
+      "Thu Mar 12 00:00:00 EDT 2020": 74,
+      "Fri Mar 13 00:00:00 EDT 2020": 85
+    }
+  },
+  {
+    "code": "CHE",
+    "name": "Switzerland",
+    "boundingBox": {
+      "iso": "CHE",
+      "sw": {
+        "type": "sw",
+        "longitude": 5.9559113,
+        "latitude": 45.817995
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 10.4922941,
+        "latitude": 47.8084648
+      }
+    },
+    "dayToCases": {
+      "Wed Feb 26 00:00:00 EST 2020": 1,
+      "Thu Feb 27 00:00:00 EST 2020": 1,
+      "Fri Feb 28 00:00:00 EST 2020": 6,
+      "Sat Feb 29 00:00:00 EST 2020": 10,
+      "Sun Mar 01 00:00:00 EST 2020": 18,
+      "Mon Mar 02 00:00:00 EST 2020": 24,
+      "Tue Mar 03 00:00:00 EST 2020": 30,
+      "Wed Mar 04 00:00:00 EST 2020": 37,
+      "Thu Mar 05 00:00:00 EST 2020": 56,
+      "Fri Mar 06 00:00:00 EST 2020": 86,
+      "Sat Mar 07 00:00:00 EST 2020": 209,
+      "Sun Mar 08 00:00:00 EST 2020": 264,
+      "Mon Mar 09 00:00:00 EDT 2020": 332,
+      "Tue Mar 10 00:00:00 EDT 2020": 332,
+      "Wed Mar 11 00:00:00 EDT 2020": 491,
+      "Thu Mar 12 00:00:00 EDT 2020": 645,
+      "Fri Mar 13 00:00:00 EDT 2020": 858
+    }
+  },
+  {
+    "code": "PYF",
+    "name": "French Polynesia",
+    "boundingBox": {
+      "iso": "PYF",
+      "sw": {
+        "type": "sw",
+        "longitude": -154.9360599,
+        "latitude": -28.0990232
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": -134.244799,
+        "latitude": -7.6592173
+      }
+    },
+    "dayToCases": {
+      "Thu Mar 12 00:00:00 EDT 2020": 1,
+      "Fri Mar 13 00:00:00 EDT 2020": 1
+    }
+  },
+  {
+    "code": "PSE",
+    "name": "Palestine",
+    "boundingBox": {
+      "iso": "PSE",
+      "sw": {
+        "type": "sw",
+        "longitude": 34.0689732,
+        "latitude": 31.2201289
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 35.5739235,
+        "latitude": 32.5521479
+      }
+    },
+    "dayToCases": {
+      "Thu Mar 05 00:00:00 EST 2020": 4,
+      "Fri Mar 06 00:00:00 EST 2020": 7,
+      "Sat Mar 07 00:00:00 EST 2020": 16,
+      "Sun Mar 08 00:00:00 EST 2020": 16,
+      "Mon Mar 09 00:00:00 EDT 2020": 19,
+      "Tue Mar 10 00:00:00 EDT 2020": 26,
+      "Wed Mar 11 00:00:00 EDT 2020": 30,
+      "Thu Mar 12 00:00:00 EDT 2020": 30,
+      "Fri Mar 13 00:00:00 EDT 2020": 31
+    }
+  },
+  {
+    "code": "ESP",
+    "name": "Spain",
+    "boundingBox": {
+      "iso": "ESP",
+      "sw": {
+        "type": "sw",
+        "longitude": -18.3936845,
+        "latitude": 27.4335426
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 4.5918885,
+        "latitude": 43.9933088
+      }
+    },
+    "dayToCases": {
+      "Sat Feb 01 00:00:00 EST 2020": 1,
+      "Sun Feb 02 00:00:00 EST 2020": 1,
+      "Mon Feb 03 00:00:00 EST 2020": 1,
+      "Tue Feb 04 00:00:00 EST 2020": 1,
+      "Wed Feb 05 00:00:00 EST 2020": 1,
+      "Thu Feb 06 00:00:00 EST 2020": 1,
+      "Fri Feb 07 00:00:00 EST 2020": 1,
+      "Sat Feb 08 00:00:00 EST 2020": 1,
+      "Sun Feb 09 00:00:00 EST 2020": 1,
+      "Mon Feb 10 00:00:00 EST 2020": 2,
+      "Tue Feb 11 00:00:00 EST 2020": 2,
+      "Wed Feb 12 00:00:00 EST 2020": 2,
+      "Thu Feb 13 00:00:00 EST 2020": 2,
+      "Fri Feb 14 00:00:00 EST 2020": 2,
+      "Sat Feb 15 00:00:00 EST 2020": 2,
+      "Sun Feb 16 00:00:00 EST 2020": 2,
+      "Mon Feb 17 00:00:00 EST 2020": 2,
+      "Tue Feb 18 00:00:00 EST 2020": 2,
+      "Wed Feb 19 00:00:00 EST 2020": 2,
+      "Thu Feb 20 00:00:00 EST 2020": 2,
+      "Fri Feb 21 00:00:00 EST 2020": 2,
+      "Sat Feb 22 00:00:00 EST 2020": 2,
+      "Sun Feb 23 00:00:00 EST 2020": 2,
+      "Mon Feb 24 00:00:00 EST 2020": 2,
+      "Tue Feb 25 00:00:00 EST 2020": 2,
+      "Wed Feb 26 00:00:00 EST 2020": 2,
+      "Thu Feb 27 00:00:00 EST 2020": 12,
+      "Fri Feb 28 00:00:00 EST 2020": 25,
+      "Sat Feb 29 00:00:00 EST 2020": 32,
+      "Sun Mar 01 00:00:00 EST 2020": 45,
+      "Mon Mar 02 00:00:00 EST 2020": 45,
+      "Tue Mar 03 00:00:00 EST 2020": 114,
+      "Wed Mar 04 00:00:00 EST 2020": 151,
+      "Thu Mar 05 00:00:00 EST 2020": 198,
+      "Fri Mar 06 00:00:00 EST 2020": 257,
+      "Sat Mar 07 00:00:00 EST 2020": 374,
+      "Sun Mar 08 00:00:00 EST 2020": 430,
+      "Mon Mar 09 00:00:00 EDT 2020": 589,
+      "Tue Mar 10 00:00:00 EDT 2020": 1024,
+      "Wed Mar 11 00:00:00 EDT 2020": 1639,
+      "Thu Mar 12 00:00:00 EDT 2020": 2140,
+      "Fri Mar 13 00:00:00 EDT 2020": 2965
+    }
+  },
+  {
+    "code": "BRN",
+    "name": "Brunei",
+    "boundingBox": {
+      "iso": "BRN",
+      "sw": {
+        "type": "sw",
+        "longitude": 114.0758734,
+        "latitude": 4.002508
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 115.3635623,
+        "latitude": 5.1011857
+      }
+    },
+    "dayToCases": {
+      "Tue Mar 10 00:00:00 EDT 2020": 1,
+      "Wed Mar 11 00:00:00 EDT 2020": 1,
+      "Thu Mar 12 00:00:00 EDT 2020": 12,
+      "Fri Mar 13 00:00:00 EDT 2020": 12
+    }
+  },
+  {
+    "code": "LBN",
+    "name": "Lebanon",
+    "boundingBox": {
+      "iso": "LBN",
+      "sw": {
+        "type": "sw",
+        "longitude": 34.8825667,
+        "latitude": 33.0479858
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 36.625,
+        "latitude": 34.6923543
+      }
+    },
+    "dayToCases": {
+      "Sat Feb 22 00:00:00 EST 2020": 1,
+      "Sun Feb 23 00:00:00 EST 2020": 1,
+      "Mon Feb 24 00:00:00 EST 2020": 1,
+      "Tue Feb 25 00:00:00 EST 2020": 1,
+      "Wed Feb 26 00:00:00 EST 2020": 1,
+      "Thu Feb 27 00:00:00 EST 2020": 2,
+      "Fri Feb 28 00:00:00 EST 2020": 2,
+      "Sat Feb 29 00:00:00 EST 2020": 2,
+      "Sun Mar 01 00:00:00 EST 2020": 2,
+      "Mon Mar 02 00:00:00 EST 2020": 10,
+      "Tue Mar 03 00:00:00 EST 2020": 13,
+      "Wed Mar 04 00:00:00 EST 2020": 13,
+      "Thu Mar 05 00:00:00 EST 2020": 13,
+      "Fri Mar 06 00:00:00 EST 2020": 16,
+      "Sat Mar 07 00:00:00 EST 2020": 22,
+      "Sun Mar 08 00:00:00 EST 2020": 28,
+      "Mon Mar 09 00:00:00 EDT 2020": 32,
+      "Tue Mar 10 00:00:00 EDT 2020": 41,
+      "Wed Mar 11 00:00:00 EDT 2020": 41,
+      "Thu Mar 12 00:00:00 EDT 2020": 66,
+      "Fri Mar 13 00:00:00 EDT 2020": 66
+    }
+  },
+  {
+    "code": "AZE",
+    "name": "Azerbaijan",
+    "boundingBox": {
+      "iso": "AZE",
+      "sw": {
+        "type": "sw",
+        "longitude": 44.7633701,
+        "latitude": 38.3929551
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 51.0090302,
+        "latitude": 41.9502947
+      }
+    },
+    "dayToCases": {
+      "Sun Mar 01 00:00:00 EST 2020": 3,
+      "Mon Mar 02 00:00:00 EST 2020": 3,
+      "Tue Mar 03 00:00:00 EST 2020": 3,
+      "Wed Mar 04 00:00:00 EST 2020": 3,
+      "Thu Mar 05 00:00:00 EST 2020": 3,
+      "Fri Mar 06 00:00:00 EST 2020": 3,
+      "Sat Mar 07 00:00:00 EST 2020": 9,
+      "Sun Mar 08 00:00:00 EST 2020": 9,
+      "Mon Mar 09 00:00:00 EDT 2020": 9,
+      "Tue Mar 10 00:00:00 EDT 2020": 9,
+      "Wed Mar 11 00:00:00 EDT 2020": 9,
+      "Thu Mar 12 00:00:00 EDT 2020": 9,
+      "Fri Mar 13 00:00:00 EDT 2020": 11
+    }
+  },
+  {
+    "code": "CUB",
+    "name": "Cuba",
+    "boundingBox": {
+      "iso": "CUB",
+      "sw": {
+        "type": "sw",
+        "longitude": -85.1679702,
+        "latitude": 19.6275294
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": -73.9190004,
+        "latitude": 23.4816972
+      }
+    },
+    "dayToCases": {
+      "Fri Mar 13 00:00:00 EDT 2020": 3
+    }
+  },
+  {
+    "code": "CZE",
+    "name": "Czech Republic",
+    "boundingBox": {
+      "iso": "CZE",
+      "sw": {
+        "type": "sw",
+        "longitude": 12.0905901,
+        "latitude": 48.5518083
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 18.859216,
+        "latitude": 51.0557036
+      }
+    },
+    "dayToCases": {
+      "Mon Mar 02 00:00:00 EST 2020": 3,
+      "Tue Mar 03 00:00:00 EST 2020": 3,
+      "Wed Mar 04 00:00:00 EST 2020": 5,
+      "Thu Mar 05 00:00:00 EST 2020": 5,
+      "Fri Mar 06 00:00:00 EST 2020": 12,
+      "Sat Mar 07 00:00:00 EST 2020": 12,
+      "Sun Mar 08 00:00:00 EST 2020": 26,
+      "Mon Mar 09 00:00:00 EDT 2020": 32,
+      "Tue Mar 10 00:00:00 EDT 2020": 38,
+      "Wed Mar 11 00:00:00 EDT 2020": 61,
+      "Thu Mar 12 00:00:00 EDT 2020": 94,
+      "Fri Mar 13 00:00:00 EDT 2020": 116
+    }
+  },
+  {
+    "code": "BFA",
+    "name": "Burkina Faso",
+    "boundingBox": {
+      "iso": "BFA",
+      "sw": {
+        "type": "sw",
+        "longitude": -5.5132416,
+        "latitude": 9.4104718
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 2.4089717,
+        "latitude": 15.084
+      }
+    },
+    "dayToCases": {
+      "Wed Mar 11 00:00:00 EDT 2020": 2,
+      "Thu Mar 12 00:00:00 EDT 2020": 2,
+      "Fri Mar 13 00:00:00 EDT 2020": 2
+    }
+  },
+  {
+    "code": "GGY",
+    "name": "Guernsey",
+    "boundingBox": {
+      "iso": "GGY",
+      "sw": {
+        "type": "sw",
+        "longitude": -2.6751703,
+        "latitude": 49.4155331
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": -2.501814,
+        "latitude": 49.5090776
+      }
+    },
+    "dayToCases": {
+      "Tue Mar 10 00:00:00 EDT 2020": 1,
+      "Wed Mar 11 00:00:00 EDT 2020": 1,
+      "Thu Mar 12 00:00:00 EDT 2020": 1,
+      "Fri Mar 13 00:00:00 EDT 2020": 1
+    }
+  },
+  {
+    "code": "ISR",
+    "name": "Israel",
+    "boundingBox": {
+      "iso": "ISR",
+      "sw": {
+        "type": "sw",
+        "longitude": 34.2674994,
+        "latitude": 29.4533796
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 35.8950234,
+        "latitude": 33.3356317
+      }
+    },
+    "dayToCases": {
+      "Sat Feb 22 00:00:00 EST 2020": 1,
+      "Sun Feb 23 00:00:00 EST 2020": 1,
+      "Mon Feb 24 00:00:00 EST 2020": 1,
+      "Tue Feb 25 00:00:00 EST 2020": 2,
+      "Wed Feb 26 00:00:00 EST 2020": 2,
+      "Thu Feb 27 00:00:00 EST 2020": 2,
+      "Fri Feb 28 00:00:00 EST 2020": 3,
+      "Sat Feb 29 00:00:00 EST 2020": 5,
+      "Sun Mar 01 00:00:00 EST 2020": 7,
+      "Mon Mar 02 00:00:00 EST 2020": 7,
+      "Tue Mar 03 00:00:00 EST 2020": 10,
+      "Wed Mar 04 00:00:00 EST 2020": 12,
+      "Thu Mar 05 00:00:00 EST 2020": 15,
+      "Fri Mar 06 00:00:00 EST 2020": 15,
+      "Sat Mar 07 00:00:00 EST 2020": 19,
+      "Sun Mar 08 00:00:00 EST 2020": 25,
+      "Mon Mar 09 00:00:00 EDT 2020": 39,
+      "Tue Mar 10 00:00:00 EDT 2020": 39,
+      "Wed Mar 11 00:00:00 EDT 2020": 75,
+      "Thu Mar 12 00:00:00 EDT 2020": 75,
+      "Fri Mar 13 00:00:00 EDT 2020": 75
+    }
+  },
+  {
+    "code": "SMR",
+    "name": "San Marino",
+    "boundingBox": {
+      "iso": "SMR",
+      "sw": {
+        "type": "sw",
+        "longitude": 12.4033246,
+        "latitude": 43.8937002
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 12.5160665,
+        "latitude": 43.992093
+      }
+    },
+    "dayToCases": {
+      "Sat Feb 29 00:00:00 EST 2020": 1,
+      "Sun Mar 01 00:00:00 EST 2020": 1,
+      "Mon Mar 02 00:00:00 EST 2020": 1,
+      "Tue Mar 03 00:00:00 EST 2020": 8,
+      "Wed Mar 04 00:00:00 EST 2020": 8,
+      "Thu Mar 05 00:00:00 EST 2020": 16,
+      "Fri Mar 06 00:00:00 EST 2020": 21,
+      "Sat Mar 07 00:00:00 EST 2020": 24,
+      "Sun Mar 08 00:00:00 EST 2020": 27,
+      "Mon Mar 09 00:00:00 EDT 2020": 37,
+      "Tue Mar 10 00:00:00 EDT 2020": 49,
+      "Wed Mar 11 00:00:00 EDT 2020": 63,
+      "Thu Mar 12 00:00:00 EDT 2020": 63,
+      "Fri Mar 13 00:00:00 EDT 2020": 63
+    }
+  },
+  {
+    "code": "AUS",
+    "name": "Australia",
+    "boundingBox": {
+      "iso": "AUS",
+      "sw": {
+        "type": "sw",
+        "longitude": 72.2460938,
+        "latitude": -55.3228175
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 168.2249543,
+        "latitude": -9.0882278
+      }
+    },
+    "dayToCases": {
+      "Sat Jan 25 00:00:00 EST 2020": 3,
+      "Sun Jan 26 00:00:00 EST 2020": 4,
+      "Mon Jan 27 00:00:00 EST 2020": 4,
+      "Tue Jan 28 00:00:00 EST 2020": 5,
+      "Wed Jan 29 00:00:00 EST 2020": 7,
+      "Thu Jan 30 00:00:00 EST 2020": 7,
+      "Fri Jan 31 00:00:00 EST 2020": 9,
+      "Sat Feb 01 00:00:00 EST 2020": 12,
+      "Sun Feb 02 00:00:00 EST 2020": 12,
+      "Mon Feb 03 00:00:00 EST 2020": 12,
+      "Tue Feb 04 00:00:00 EST 2020": 12,
+      "Wed Feb 05 00:00:00 EST 2020": 13,
+      "Thu Feb 06 00:00:00 EST 2020": 14,
+      "Fri Feb 07 00:00:00 EST 2020": 15,
+      "Sat Feb 08 00:00:00 EST 2020": 15,
+      "Sun Feb 09 00:00:00 EST 2020": 15,
+      "Mon Feb 10 00:00:00 EST 2020": 15,
+      "Tue Feb 11 00:00:00 EST 2020": 15,
+      "Wed Feb 12 00:00:00 EST 2020": 15,
+      "Thu Feb 13 00:00:00 EST 2020": 15,
+      "Fri Feb 14 00:00:00 EST 2020": 15,
+      "Sat Feb 15 00:00:00 EST 2020": 15,
+      "Sun Feb 16 00:00:00 EST 2020": 15,
+      "Mon Feb 17 00:00:00 EST 2020": 15,
+      "Tue Feb 18 00:00:00 EST 2020": 15,
+      "Wed Feb 19 00:00:00 EST 2020": 15,
+      "Thu Feb 20 00:00:00 EST 2020": 15,
+      "Fri Feb 21 00:00:00 EST 2020": 17,
+      "Sat Feb 22 00:00:00 EST 2020": 21,
+      "Sun Feb 23 00:00:00 EST 2020": 22,
+      "Mon Feb 24 00:00:00 EST 2020": 22,
+      "Tue Feb 25 00:00:00 EST 2020": 22,
+      "Wed Feb 26 00:00:00 EST 2020": 23,
+      "Thu Feb 27 00:00:00 EST 2020": 23,
+      "Fri Feb 28 00:00:00 EST 2020": 23,
+      "Sat Feb 29 00:00:00 EST 2020": 24,
+      "Sun Mar 01 00:00:00 EST 2020": 25,
+      "Mon Mar 02 00:00:00 EST 2020": 27,
+      "Tue Mar 03 00:00:00 EST 2020": 33,
+      "Wed Mar 04 00:00:00 EST 2020": 43,
+      "Thu Mar 05 00:00:00 EST 2020": 57,
+      "Fri Mar 06 00:00:00 EST 2020": 57,
+      "Sat Mar 07 00:00:00 EST 2020": 62,
+      "Sun Mar 08 00:00:00 EST 2020": 74,
+      "Mon Mar 09 00:00:00 EDT 2020": 77,
+      "Tue Mar 10 00:00:00 EDT 2020": 92,
+      "Wed Mar 11 00:00:00 EDT 2020": 112,
+      "Thu Mar 12 00:00:00 EDT 2020": 122,
+      "Fri Mar 13 00:00:00 EDT 2020": 140
+    }
+  },
+  {
+    "code": "EST",
+    "name": "Estonia",
+    "boundingBox": {
+      "iso": "EST",
+      "sw": {
+        "type": "sw",
+        "longitude": 21.3826069,
+        "latitude": 57.5092997
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 28.2100175,
+        "latitude": 59.9383754
+      }
+    },
+    "dayToCases": {
+      "Thu Feb 27 00:00:00 EST 2020": 1,
+      "Fri Feb 28 00:00:00 EST 2020": 1,
+      "Sat Feb 29 00:00:00 EST 2020": 1,
+      "Sun Mar 01 00:00:00 EST 2020": 1,
+      "Mon Mar 02 00:00:00 EST 2020": 1,
+      "Tue Mar 03 00:00:00 EST 2020": 1,
+      "Wed Mar 04 00:00:00 EST 2020": 2,
+      "Thu Mar 05 00:00:00 EST 2020": 2,
+      "Fri Mar 06 00:00:00 EST 2020": 3,
+      "Sat Mar 07 00:00:00 EST 2020": 10,
+      "Sun Mar 08 00:00:00 EST 2020": 10,
+      "Mon Mar 09 00:00:00 EDT 2020": 10,
+      "Tue Mar 10 00:00:00 EDT 2020": 10,
+      "Wed Mar 11 00:00:00 EDT 2020": 13,
+      "Thu Mar 12 00:00:00 EDT 2020": 13,
+      "Fri Mar 13 00:00:00 EDT 2020": 13
+    }
+  },
+  {
+    "code": "CMR",
+    "name": "Cameroon",
+    "boundingBox": {
+      "iso": "CMR",
+      "sw": {
+        "type": "sw",
+        "longitude": 8.3822176,
+        "latitude": 1.6546659
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 16.1921476,
+        "latitude": 13.083333
+      }
+    },
+    "dayToCases": {
+      "Fri Mar 06 00:00:00 EST 2020": 1,
+      "Sat Mar 07 00:00:00 EST 2020": 2,
+      "Sun Mar 08 00:00:00 EST 2020": 2,
+      "Mon Mar 09 00:00:00 EDT 2020": 2,
+      "Tue Mar 10 00:00:00 EDT 2020": 2,
+      "Wed Mar 11 00:00:00 EDT 2020": 2,
+      "Thu Mar 12 00:00:00 EDT 2020": 2,
+      "Fri Mar 13 00:00:00 EDT 2020": 2
+    }
+  },
+  {
+    "code": "GIB",
+    "name": "Gibraltar",
+    "boundingBox": {
+      "iso": "GIB",
+      "sw": {
+        "type": "sw",
+        "longitude": -5.3941295,
+        "latitude": 36.100807
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": -5.3141295,
+        "latitude": 36.180807
+      }
+    },
+    "dayToCases": {
+      "Thu Mar 05 00:00:00 EST 2020": 1,
+      "Fri Mar 06 00:00:00 EST 2020": 1,
+      "Sat Mar 07 00:00:00 EST 2020": 1,
+      "Sun Mar 08 00:00:00 EST 2020": 1,
+      "Mon Mar 09 00:00:00 EDT 2020": 1,
+      "Tue Mar 10 00:00:00 EDT 2020": 1,
+      "Wed Mar 11 00:00:00 EDT 2020": 1,
+      "Thu Mar 12 00:00:00 EDT 2020": 1,
+      "Fri Mar 13 00:00:00 EDT 2020": 1
+    }
+  },
+  {
+    "code": "CYP",
+    "name": "Cyprus",
+    "boundingBox": {
+      "iso": "CYP",
+      "sw": {
+        "type": "sw",
+        "longitude": 32.0227581,
+        "latitude": 34.4383706
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 34.8553182,
+        "latitude": 35.913252
+      }
+    },
+    "dayToCases": {
+      "Tue Mar 10 00:00:00 EDT 2020": 2,
+      "Wed Mar 11 00:00:00 EDT 2020": 2,
+      "Thu Mar 12 00:00:00 EDT 2020": 6,
+      "Fri Mar 13 00:00:00 EDT 2020": 6
+    }
+  },
+  {
+    "code": "MYS",
+    "name": "Malaysia",
+    "boundingBox": {
+      "iso": "MYS",
+      "sw": {
+        "type": "sw",
+        "longitude": 105.3471939,
+        "latitude": -5.1076241
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 120.3471939,
+        "latitude": 9.8923759
+      }
+    },
+    "dayToCases": {
+      "Sun Jan 26 00:00:00 EST 2020": 3,
+      "Mon Jan 27 00:00:00 EST 2020": 4,
+      "Tue Jan 28 00:00:00 EST 2020": 4,
+      "Wed Jan 29 00:00:00 EST 2020": 4,
+      "Thu Jan 30 00:00:00 EST 2020": 7,
+      "Fri Jan 31 00:00:00 EST 2020": 8,
+      "Sat Feb 01 00:00:00 EST 2020": 8,
+      "Sun Feb 02 00:00:00 EST 2020": 8,
+      "Mon Feb 03 00:00:00 EST 2020": 8,
+      "Tue Feb 04 00:00:00 EST 2020": 10,
+      "Wed Feb 05 00:00:00 EST 2020": 10,
+      "Thu Feb 06 00:00:00 EST 2020": 12,
+      "Fri Feb 07 00:00:00 EST 2020": 14,
+      "Sat Feb 08 00:00:00 EST 2020": 15,
+      "Sun Feb 09 00:00:00 EST 2020": 17,
+      "Mon Feb 10 00:00:00 EST 2020": 18,
+      "Tue Feb 11 00:00:00 EST 2020": 18,
+      "Wed Feb 12 00:00:00 EST 2020": 18,
+      "Thu Feb 13 00:00:00 EST 2020": 18,
+      "Fri Feb 14 00:00:00 EST 2020": 19,
+      "Sat Feb 15 00:00:00 EST 2020": 21,
+      "Sun Feb 16 00:00:00 EST 2020": 22,
+      "Mon Feb 17 00:00:00 EST 2020": 22,
+      "Tue Feb 18 00:00:00 EST 2020": 22,
+      "Wed Feb 19 00:00:00 EST 2020": 22,
+      "Thu Feb 20 00:00:00 EST 2020": 22,
+      "Fri Feb 21 00:00:00 EST 2020": 22,
+      "Sat Feb 22 00:00:00 EST 2020": 22,
+      "Sun Feb 23 00:00:00 EST 2020": 22,
+      "Mon Feb 24 00:00:00 EST 2020": 22,
+      "Tue Feb 25 00:00:00 EST 2020": 22,
+      "Wed Feb 26 00:00:00 EST 2020": 22,
+      "Thu Feb 27 00:00:00 EST 2020": 22,
+      "Fri Feb 28 00:00:00 EST 2020": 24,
+      "Sat Feb 29 00:00:00 EST 2020": 24,
+      "Sun Mar 01 00:00:00 EST 2020": 24,
+      "Mon Mar 02 00:00:00 EST 2020": 24,
+      "Tue Mar 03 00:00:00 EST 2020": 29,
+      "Wed Mar 04 00:00:00 EST 2020": 50,
+      "Thu Mar 05 00:00:00 EST 2020": 50,
+      "Fri Mar 06 00:00:00 EST 2020": 55,
+      "Sat Mar 07 00:00:00 EST 2020": 83,
+      "Sun Mar 08 00:00:00 EST 2020": 93,
+      "Mon Mar 09 00:00:00 EDT 2020": 93,
+      "Tue Mar 10 00:00:00 EDT 2020": 117,
+      "Wed Mar 11 00:00:00 EDT 2020": 129,
+      "Thu Mar 12 00:00:00 EDT 2020": 129,
+      "Fri Mar 13 00:00:00 EDT 2020": 129
+    }
+  },
+  {
+    "code": "ISL",
+    "name": "Iceland",
+    "boundingBox": {
+      "iso": "ISL",
+      "sw": {
+        "type": "sw",
+        "longitude": -25.0135069,
+        "latitude": 63.0859177
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": -12.8046162,
+        "latitude": 67.353
+      }
+    },
+    "dayToCases": {
+      "Mon Mar 02 00:00:00 EST 2020": 2,
+      "Tue Mar 03 00:00:00 EST 2020": 9,
+      "Wed Mar 04 00:00:00 EST 2020": 16,
+      "Thu Mar 05 00:00:00 EST 2020": 26,
+      "Fri Mar 06 00:00:00 EST 2020": 26,
+      "Sat Mar 07 00:00:00 EST 2020": 45,
+      "Sun Mar 08 00:00:00 EST 2020": 45,
+      "Mon Mar 09 00:00:00 EDT 2020": 55,
+      "Tue Mar 10 00:00:00 EDT 2020": 55,
+      "Wed Mar 11 00:00:00 EDT 2020": 61,
+      "Thu Mar 12 00:00:00 EDT 2020": 61,
+      "Fri Mar 13 00:00:00 EDT 2020": 61
+    }
+  },
+  {
+    "code": "OMN",
+    "name": "Oman",
+    "boundingBox": {
+      "iso": "OMN",
+      "sw": {
+        "type": "sw",
+        "longitude": 52.0,
+        "latitude": 16.4649608
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 60.054577,
+        "latitude": 26.7026737
+      }
+    },
+    "dayToCases": {
+      "Tue Feb 25 00:00:00 EST 2020": 2,
+      "Wed Feb 26 00:00:00 EST 2020": 4,
+      "Thu Feb 27 00:00:00 EST 2020": 4,
+      "Fri Feb 28 00:00:00 EST 2020": 6,
+      "Sat Feb 29 00:00:00 EST 2020": 6,
+      "Sun Mar 01 00:00:00 EST 2020": 6,
+      "Mon Mar 02 00:00:00 EST 2020": 6,
+      "Tue Mar 03 00:00:00 EST 2020": 6,
+      "Wed Mar 04 00:00:00 EST 2020": 12,
+      "Thu Mar 05 00:00:00 EST 2020": 15,
+      "Fri Mar 06 00:00:00 EST 2020": 16,
+      "Sat Mar 07 00:00:00 EST 2020": 16,
+      "Sun Mar 08 00:00:00 EST 2020": 16,
+      "Mon Mar 09 00:00:00 EDT 2020": 16,
+      "Tue Mar 10 00:00:00 EDT 2020": 18,
+      "Wed Mar 11 00:00:00 EDT 2020": 18,
+      "Thu Mar 12 00:00:00 EDT 2020": 18,
+      "Fri Mar 13 00:00:00 EDT 2020": 18
+    }
+  },
+  {
+    "code": "ARM",
+    "name": "Armenia",
+    "boundingBox": {
+      "iso": "ARM",
+      "sw": {
+        "type": "sw",
+        "longitude": 43.4471395,
+        "latitude": 38.8404775
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 46.6333087,
+        "latitude": 41.300712
+      }
+    },
+    "dayToCases": {
+      "Mon Mar 02 00:00:00 EST 2020": 1,
+      "Tue Mar 03 00:00:00 EST 2020": 1,
+      "Wed Mar 04 00:00:00 EST 2020": 1,
+      "Thu Mar 05 00:00:00 EST 2020": 1,
+      "Fri Mar 06 00:00:00 EST 2020": 1,
+      "Sat Mar 07 00:00:00 EST 2020": 1,
+      "Sun Mar 08 00:00:00 EST 2020": 1,
+      "Mon Mar 09 00:00:00 EDT 2020": 1,
+      "Tue Mar 10 00:00:00 EDT 2020": 1,
+      "Wed Mar 11 00:00:00 EDT 2020": 1,
+      "Thu Mar 12 00:00:00 EDT 2020": 1,
+      "Fri Mar 13 00:00:00 EDT 2020": 1
+    }
+  },
+  {
+    "code": "AUT",
+    "name": "Austria",
+    "boundingBox": {
+      "iso": "AUT",
+      "sw": {
+        "type": "sw",
+        "longitude": 9.5307487,
+        "latitude": 46.3722761
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 17.160776,
+        "latitude": 49.0205305
+      }
+    },
+    "dayToCases": {
+      "Wed Feb 26 00:00:00 EST 2020": 2,
+      "Thu Feb 27 00:00:00 EST 2020": 2,
+      "Fri Feb 28 00:00:00 EST 2020": 4,
+      "Sat Feb 29 00:00:00 EST 2020": 5,
+      "Sun Mar 01 00:00:00 EST 2020": 10,
+      "Mon Mar 02 00:00:00 EST 2020": 10,
+      "Tue Mar 03 00:00:00 EST 2020": 18,
+      "Wed Mar 04 00:00:00 EST 2020": 24,
+      "Thu Mar 05 00:00:00 EST 2020": 37,
+      "Fri Mar 06 00:00:00 EST 2020": 47,
+      "Sat Mar 07 00:00:00 EST 2020": 66,
+      "Sun Mar 08 00:00:00 EST 2020": 104,
+      "Mon Mar 09 00:00:00 EDT 2020": 112,
+      "Tue Mar 10 00:00:00 EDT 2020": 131,
+      "Wed Mar 11 00:00:00 EDT 2020": 182,
+      "Thu Mar 12 00:00:00 EDT 2020": 302,
+      "Fri Mar 13 00:00:00 EDT 2020": 361
+    }
+  },
+  {
+    "code": "KOR",
+    "name": "South Korea",
+    "boundingBox": {
+      "iso": "KOR",
+      "sw": {
+        "type": "sw",
+        "longitude": 124.354847,
+        "latitude": 32.9104556
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 132.1467806,
+        "latitude": 38.623477
+      }
+    },
+    "dayToCases": {
+      "Tue Jan 21 00:00:00 EST 2020": 1,
+      "Wed Jan 22 00:00:00 EST 2020": 1,
+      "Thu Jan 23 00:00:00 EST 2020": 1,
+      "Fri Jan 24 00:00:00 EST 2020": 2,
+      "Sat Jan 25 00:00:00 EST 2020": 2,
+      "Sun Jan 26 00:00:00 EST 2020": 2,
+      "Mon Jan 27 00:00:00 EST 2020": 4,
+      "Tue Jan 28 00:00:00 EST 2020": 4,
+      "Wed Jan 29 00:00:00 EST 2020": 4,
+      "Thu Jan 30 00:00:00 EST 2020": 4,
+      "Fri Jan 31 00:00:00 EST 2020": 11,
+      "Sat Feb 01 00:00:00 EST 2020": 12,
+      "Sun Feb 02 00:00:00 EST 2020": 15,
+      "Mon Feb 03 00:00:00 EST 2020": 15,
+      "Tue Feb 04 00:00:00 EST 2020": 16,
+      "Wed Feb 05 00:00:00 EST 2020": 18,
+      "Thu Feb 06 00:00:00 EST 2020": 23,
+      "Fri Feb 07 00:00:00 EST 2020": 24,
+      "Sat Feb 08 00:00:00 EST 2020": 24,
+      "Sun Feb 09 00:00:00 EST 2020": 27,
+      "Mon Feb 10 00:00:00 EST 2020": 27,
+      "Tue Feb 11 00:00:00 EST 2020": 28,
+      "Wed Feb 12 00:00:00 EST 2020": 28,
+      "Thu Feb 13 00:00:00 EST 2020": 28,
+      "Fri Feb 14 00:00:00 EST 2020": 28,
+      "Sat Feb 15 00:00:00 EST 2020": 28,
+      "Sun Feb 16 00:00:00 EST 2020": 29,
+      "Mon Feb 17 00:00:00 EST 2020": 30,
+      "Tue Feb 18 00:00:00 EST 2020": 31,
+      "Wed Feb 19 00:00:00 EST 2020": 51,
+      "Thu Feb 20 00:00:00 EST 2020": 104,
+      "Fri Feb 21 00:00:00 EST 2020": 204,
+      "Sat Feb 22 00:00:00 EST 2020": 346,
+      "Sun Feb 23 00:00:00 EST 2020": 602,
+      "Mon Feb 24 00:00:00 EST 2020": 763,
+      "Tue Feb 25 00:00:00 EST 2020": 977,
+      "Wed Feb 26 00:00:00 EST 2020": 1261,
+      "Thu Feb 27 00:00:00 EST 2020": 1766,
+      "Fri Feb 28 00:00:00 EST 2020": 2337,
+      "Sat Feb 29 00:00:00 EST 2020": 3150,
+      "Sun Mar 01 00:00:00 EST 2020": 3736,
+      "Mon Mar 02 00:00:00 EST 2020": 4212,
+      "Tue Mar 03 00:00:00 EST 2020": 4812,
+      "Wed Mar 04 00:00:00 EST 2020": 5328,
+      "Thu Mar 05 00:00:00 EST 2020": 5766,
+      "Fri Mar 06 00:00:00 EST 2020": 6284,
+      "Sat Mar 07 00:00:00 EST 2020": 6767,
+      "Sun Mar 08 00:00:00 EST 2020": 7134,
+      "Mon Mar 09 00:00:00 EDT 2020": 7382,
+      "Tue Mar 10 00:00:00 EDT 2020": 7513,
+      "Wed Mar 11 00:00:00 EDT 2020": 7755,
+      "Thu Mar 12 00:00:00 EDT 2020": 7869,
+      "Fri Mar 13 00:00:00 EDT 2020": 7979
+    }
+  },
+  {
+    "code": "MCO",
+    "name": "Monaco",
+    "boundingBox": {
+      "iso": "MCO",
+      "sw": {
+        "type": "sw",
+        "longitude": 7.4090279,
+        "latitude": 43.7247599
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 7.4398704,
+        "latitude": 43.7519311
+      }
+    },
+    "dayToCases": {
+      "Sun Mar 01 00:00:00 EST 2020": 1,
+      "Mon Mar 02 00:00:00 EST 2020": 1,
+      "Tue Mar 03 00:00:00 EST 2020": 1,
+      "Wed Mar 04 00:00:00 EST 2020": 1,
+      "Thu Mar 05 00:00:00 EST 2020": 1,
+      "Fri Mar 06 00:00:00 EST 2020": 1,
+      "Sat Mar 07 00:00:00 EST 2020": 1,
+      "Sun Mar 08 00:00:00 EST 2020": 1,
+      "Mon Mar 09 00:00:00 EDT 2020": 1,
+      "Tue Mar 10 00:00:00 EDT 2020": 1,
+      "Wed Mar 11 00:00:00 EDT 2020": 1,
+      "Thu Mar 12 00:00:00 EDT 2020": 1,
+      "Fri Mar 13 00:00:00 EDT 2020": 1
+    }
+  },
+  {
+    "code": "LUX",
+    "name": "Luxembourg",
+    "boundingBox": {
+      "iso": "LUX",
+      "sw": {
+        "type": "sw",
+        "longitude": 4.9684415,
+        "latitude": 49.4969821
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 6.0344254,
+        "latitude": 50.430377
+      }
+    },
+    "dayToCases": {
+      "Mon Mar 02 00:00:00 EST 2020": 1,
+      "Tue Mar 03 00:00:00 EST 2020": 1,
+      "Wed Mar 04 00:00:00 EST 2020": 1,
+      "Thu Mar 05 00:00:00 EST 2020": 1,
+      "Fri Mar 06 00:00:00 EST 2020": 1,
+      "Sat Mar 07 00:00:00 EST 2020": 2,
+      "Sun Mar 08 00:00:00 EST 2020": 2,
+      "Mon Mar 09 00:00:00 EDT 2020": 2,
+      "Tue Mar 10 00:00:00 EDT 2020": 5,
+      "Wed Mar 11 00:00:00 EDT 2020": 5,
+      "Thu Mar 12 00:00:00 EDT 2020": 17,
+      "Fri Mar 13 00:00:00 EDT 2020": 17
+    }
+  },
+  {
+    "code": "BRA",
+    "name": "Brazil",
+    "boundingBox": {
+      "iso": "BRA",
+      "sw": {
+        "type": "sw",
+        "longitude": -73.9830625,
+        "latitude": -33.8689056
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": -28.6341164,
+        "latitude": 5.2842873
+      }
+    },
+    "dayToCases": {
+      "Thu Feb 27 00:00:00 EST 2020": 1,
+      "Fri Feb 28 00:00:00 EST 2020": 1,
+      "Sat Feb 29 00:00:00 EST 2020": 1,
+      "Sun Mar 01 00:00:00 EST 2020": 2,
+      "Mon Mar 02 00:00:00 EST 2020": 2,
+      "Tue Mar 03 00:00:00 EST 2020": 2,
+      "Wed Mar 04 00:00:00 EST 2020": 2,
+      "Thu Mar 05 00:00:00 EST 2020": 3,
+      "Fri Mar 06 00:00:00 EST 2020": 7,
+      "Sat Mar 07 00:00:00 EST 2020": 13,
+      "Sun Mar 08 00:00:00 EST 2020": 19,
+      "Mon Mar 09 00:00:00 EDT 2020": 25,
+      "Tue Mar 10 00:00:00 EDT 2020": 25,
+      "Wed Mar 11 00:00:00 EDT 2020": 34,
+      "Thu Mar 12 00:00:00 EDT 2020": 52,
+      "Fri Mar 13 00:00:00 EDT 2020": 77
+    }
+  },
+  {
+    "code": "DZA",
+    "name": "Algeria",
+    "boundingBox": {
+      "iso": "DZA",
+      "sw": {
+        "type": "sw",
+        "longitude": -8.668908,
+        "latitude": 18.968147
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 11.997337,
+        "latitude": 37.2962055
+      }
+    },
+    "dayToCases": {
+      "Wed Feb 26 00:00:00 EST 2020": 1,
+      "Thu Feb 27 00:00:00 EST 2020": 1,
+      "Fri Feb 28 00:00:00 EST 2020": 1,
+      "Sat Feb 29 00:00:00 EST 2020": 1,
+      "Sun Mar 01 00:00:00 EST 2020": 1,
+      "Mon Mar 02 00:00:00 EST 2020": 1,
+      "Tue Mar 03 00:00:00 EST 2020": 5,
+      "Wed Mar 04 00:00:00 EST 2020": 5,
+      "Thu Mar 05 00:00:00 EST 2020": 12,
+      "Fri Mar 06 00:00:00 EST 2020": 12,
+      "Sat Mar 07 00:00:00 EST 2020": 17,
+      "Sun Mar 08 00:00:00 EST 2020": 17,
+      "Mon Mar 09 00:00:00 EDT 2020": 20,
+      "Tue Mar 10 00:00:00 EDT 2020": 20,
+      "Wed Mar 11 00:00:00 EDT 2020": 20,
+      "Thu Mar 12 00:00:00 EDT 2020": 25,
+      "Fri Mar 13 00:00:00 EDT 2020": 25
+    }
+  },
+  {
+    "code": "JEY",
+    "name": "Jersey",
+    "boundingBox": {
+      "iso": "JEY",
+      "sw": {
+        "type": "sw",
+        "longitude": -2.254512,
+        "latitude": 49.1625179
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": -2.0104193,
+        "latitude": 49.2621288
+      }
+    },
+    "dayToCases": {
+      "Fri Mar 13 00:00:00 EDT 2020": 2
+    }
+  },
+  {
+    "code": "SVN",
+    "name": "Slovenia",
+    "boundingBox": {
+      "iso": "SVN",
+      "sw": {
+        "type": "sw",
+        "longitude": 13.3754696,
+        "latitude": 45.4214242
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 16.5967702,
+        "latitude": 46.8766816
+      }
+    },
+    "dayToCases": {
+      "Thu Mar 05 00:00:00 EST 2020": 1,
+      "Fri Mar 06 00:00:00 EST 2020": 6,
+      "Sat Mar 07 00:00:00 EST 2020": 9,
+      "Sun Mar 08 00:00:00 EST 2020": 12,
+      "Mon Mar 09 00:00:00 EDT 2020": 16,
+      "Tue Mar 10 00:00:00 EDT 2020": 23,
+      "Wed Mar 11 00:00:00 EDT 2020": 31,
+      "Thu Mar 12 00:00:00 EDT 2020": 57,
+      "Fri Mar 13 00:00:00 EDT 2020": 57
+    }
+  },
+  {
+    "code": "COL",
+    "name": "Colombia",
+    "boundingBox": {
+      "iso": "COL",
+      "sw": {
+        "type": "sw",
+        "longitude": -82.1243666,
+        "latitude": -4.2316872
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": -66.8511907,
+        "latitude": 16.0571269
+      }
+    },
+    "dayToCases": {
+      "Sat Mar 07 00:00:00 EST 2020": 1,
+      "Sun Mar 08 00:00:00 EST 2020": 1,
+      "Mon Mar 09 00:00:00 EDT 2020": 1,
+      "Tue Mar 10 00:00:00 EDT 2020": 3,
+      "Wed Mar 11 00:00:00 EDT 2020": 3,
+      "Thu Mar 12 00:00:00 EDT 2020": 9,
+      "Fri Mar 13 00:00:00 EDT 2020": 9
+    }
+  },
+  {
+    "code": "ECU",
+    "name": "Ecuador",
+    "boundingBox": {
+      "iso": "ECU",
+      "sw": {
+        "type": "sw",
+        "longitude": -92.2072392,
+        "latitude": -5.0159314
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": -75.192504,
+        "latitude": 1.8835964
+      }
+    },
+    "dayToCases": {
+      "Sun Mar 01 00:00:00 EST 2020": 1,
+      "Mon Mar 02 00:00:00 EST 2020": 1,
+      "Tue Mar 03 00:00:00 EST 2020": 6,
+      "Wed Mar 04 00:00:00 EST 2020": 7,
+      "Thu Mar 05 00:00:00 EST 2020": 7,
+      "Fri Mar 06 00:00:00 EST 2020": 13,
+      "Sat Mar 07 00:00:00 EST 2020": 14,
+      "Sun Mar 08 00:00:00 EST 2020": 14,
+      "Mon Mar 09 00:00:00 EDT 2020": 15,
+      "Tue Mar 10 00:00:00 EDT 2020": 15,
+      "Wed Mar 11 00:00:00 EDT 2020": 15,
+      "Thu Mar 12 00:00:00 EDT 2020": 17,
+      "Fri Mar 13 00:00:00 EDT 2020": 17
+    }
+  },
+  {
+    "code": "HUN",
+    "name": "Hungary",
+    "boundingBox": {
+      "iso": "HUN",
+      "sw": {
+        "type": "sw",
+        "longitude": 16.1138867,
+        "latitude": 45.737128
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 22.8977094,
+        "latitude": 48.585257
+      }
+    },
+    "dayToCases": {
+      "Thu Mar 05 00:00:00 EST 2020": 2,
+      "Fri Mar 06 00:00:00 EST 2020": 2,
+      "Sat Mar 07 00:00:00 EST 2020": 5,
+      "Sun Mar 08 00:00:00 EST 2020": 7,
+      "Mon Mar 09 00:00:00 EDT 2020": 9,
+      "Tue Mar 10 00:00:00 EDT 2020": 9,
+      "Wed Mar 11 00:00:00 EDT 2020": 13,
+      "Thu Mar 12 00:00:00 EDT 2020": 13,
+      "Fri Mar 13 00:00:00 EDT 2020": 16
+    }
+  },
+  {
+    "code": "JPN",
+    "name": "Japan",
+    "boundingBox": {
+      "iso": "JPN",
+      "sw": {
+        "type": "sw",
+        "longitude": 122.7141754,
+        "latitude": 20.2145811
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 154.205541,
+        "latitude": 45.7112046
+      }
+    },
+    "dayToCases": {
+      "Tue Jan 21 00:00:00 EST 2020": 1,
+      "Wed Jan 22 00:00:00 EST 2020": 1,
+      "Thu Jan 23 00:00:00 EST 2020": 1,
+      "Fri Jan 24 00:00:00 EST 2020": 1,
+      "Sat Jan 25 00:00:00 EST 2020": 3,
+      "Sun Jan 26 00:00:00 EST 2020": 3,
+      "Mon Jan 27 00:00:00 EST 2020": 4,
+      "Tue Jan 28 00:00:00 EST 2020": 6,
+      "Wed Jan 29 00:00:00 EST 2020": 7,
+      "Thu Jan 30 00:00:00 EST 2020": 11,
+      "Fri Jan 31 00:00:00 EST 2020": 14,
+      "Sat Feb 01 00:00:00 EST 2020": 17,
+      "Sun Feb 02 00:00:00 EST 2020": 20,
+      "Mon Feb 03 00:00:00 EST 2020": 20,
+      "Tue Feb 04 00:00:00 EST 2020": 20,
+      "Wed Feb 05 00:00:00 EST 2020": 23,
+      "Thu Feb 06 00:00:00 EST 2020": 25,
+      "Fri Feb 07 00:00:00 EST 2020": 25,
+      "Sat Feb 08 00:00:00 EST 2020": 25,
+      "Sun Feb 09 00:00:00 EST 2020": 26,
+      "Mon Feb 10 00:00:00 EST 2020": 26,
+      "Tue Feb 11 00:00:00 EST 2020": 26,
+      "Wed Feb 12 00:00:00 EST 2020": 28,
+      "Thu Feb 13 00:00:00 EST 2020": 29,
+      "Fri Feb 14 00:00:00 EST 2020": 33,
+      "Sat Feb 15 00:00:00 EST 2020": 41,
+      "Sun Feb 16 00:00:00 EST 2020": 53,
+      "Mon Feb 17 00:00:00 EST 2020": 59,
+      "Tue Feb 18 00:00:00 EST 2020": 65,
+      "Wed Feb 19 00:00:00 EST 2020": 73,
+      "Thu Feb 20 00:00:00 EST 2020": 85,
+      "Fri Feb 21 00:00:00 EST 2020": 93,
+      "Sat Feb 22 00:00:00 EST 2020": 105,
+      "Sun Feb 23 00:00:00 EST 2020": 132,
+      "Mon Feb 24 00:00:00 EST 2020": 144,
+      "Tue Feb 25 00:00:00 EST 2020": 157,
+      "Wed Feb 26 00:00:00 EST 2020": 164,
+      "Thu Feb 27 00:00:00 EST 2020": 186,
+      "Fri Feb 28 00:00:00 EST 2020": 210,
+      "Sat Feb 29 00:00:00 EST 2020": 230,
+      "Sun Mar 01 00:00:00 EST 2020": 239,
+      "Mon Mar 02 00:00:00 EST 2020": 254,
+      "Tue Mar 03 00:00:00 EST 2020": 268,
+      "Wed Mar 04 00:00:00 EST 2020": 284,
+      "Thu Mar 05 00:00:00 EST 2020": 317,
+      "Fri Mar 06 00:00:00 EST 2020": 349,
+      "Sat Mar 07 00:00:00 EST 2020": 408,
+      "Sun Mar 08 00:00:00 EST 2020": 455,
+      "Mon Mar 09 00:00:00 EDT 2020": 488,
+      "Tue Mar 10 00:00:00 EDT 2020": 514,
+      "Wed Mar 11 00:00:00 EDT 2020": 568,
+      "Thu Mar 12 00:00:00 EDT 2020": 620,
+      "Fri Mar 13 00:00:00 EDT 2020": 675
+    }
+  },
+  {
+    "code": "MDA",
+    "name": "Moldova",
+    "boundingBox": {
+      "iso": "MDA",
+      "sw": {
+        "type": "sw",
+        "longitude": 26.6162189,
+        "latitude": 45.4674139
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 30.1636756,
+        "latitude": 48.4918695
+      }
+    },
+    "dayToCases": {
+      "Sun Mar 08 00:00:00 EST 2020": 1,
+      "Mon Mar 09 00:00:00 EDT 2020": 1,
+      "Tue Mar 10 00:00:00 EDT 2020": 1,
+      "Wed Mar 11 00:00:00 EDT 2020": 3,
+      "Thu Mar 12 00:00:00 EDT 2020": 4,
+      "Fri Mar 13 00:00:00 EDT 2020": 4
+    }
+  },
+  {
+    "code": "BLR",
+    "name": "Belarus",
+    "boundingBox": {
+      "iso": "BLR",
+      "sw": {
+        "type": "sw",
+        "longitude": 23.1783344,
+        "latitude": 51.2575982
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 32.7627809,
+        "latitude": 56.17218
+      }
+    },
+    "dayToCases": {
+      "Fri Feb 28 00:00:00 EST 2020": 1,
+      "Sat Feb 29 00:00:00 EST 2020": 1,
+      "Sun Mar 01 00:00:00 EST 2020": 1,
+      "Mon Mar 02 00:00:00 EST 2020": 1,
+      "Tue Mar 03 00:00:00 EST 2020": 1,
+      "Wed Mar 04 00:00:00 EST 2020": 1,
+      "Thu Mar 05 00:00:00 EST 2020": 6,
+      "Fri Mar 06 00:00:00 EST 2020": 6,
+      "Sat Mar 07 00:00:00 EST 2020": 6,
+      "Sun Mar 08 00:00:00 EST 2020": 6,
+      "Mon Mar 09 00:00:00 EDT 2020": 6,
+      "Tue Mar 10 00:00:00 EDT 2020": 6,
+      "Wed Mar 11 00:00:00 EDT 2020": 9,
+      "Thu Mar 12 00:00:00 EDT 2020": 12,
+      "Fri Mar 13 00:00:00 EDT 2020": 12
+    }
+  },
+  {
+    "code": "ALB",
+    "name": "Albania",
+    "boundingBox": {
+      "iso": "ALB",
+      "sw": {
+        "type": "sw",
+        "longitude": 19.1246095,
+        "latitude": 39.6448625
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 21.0574335,
+        "latitude": 42.6610848
+      }
+    },
+    "dayToCases": {
+      "Mon Mar 09 00:00:00 EDT 2020": 2,
+      "Tue Mar 10 00:00:00 EDT 2020": 2,
+      "Wed Mar 11 00:00:00 EDT 2020": 10,
+      "Thu Mar 12 00:00:00 EDT 2020": 10,
+      "Fri Mar 13 00:00:00 EDT 2020": 23
+    }
+  },
+  {
+    "code": "NZL",
+    "name": "New Zealand",
+    "boundingBox": {
+      "iso": "NZL",
+      "sw": {
+        "type": "sw",
+        "longitude": -179.059153,
+        "latitude": -52.8213687
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 179.3643594,
+        "latitude": -29.0303303
+      }
+    },
+    "dayToCases": {
+      "Fri Feb 28 00:00:00 EST 2020": 1,
+      "Sat Feb 29 00:00:00 EST 2020": 1,
+      "Sun Mar 01 00:00:00 EST 2020": 1,
+      "Mon Mar 02 00:00:00 EST 2020": 1,
+      "Tue Mar 03 00:00:00 EST 2020": 2,
+      "Wed Mar 04 00:00:00 EST 2020": 2,
+      "Thu Mar 05 00:00:00 EST 2020": 2,
+      "Fri Mar 06 00:00:00 EST 2020": 4,
+      "Sat Mar 07 00:00:00 EST 2020": 5,
+      "Sun Mar 08 00:00:00 EST 2020": 5,
+      "Mon Mar 09 00:00:00 EDT 2020": 5,
+      "Tue Mar 10 00:00:00 EDT 2020": 5,
+      "Wed Mar 11 00:00:00 EDT 2020": 5,
+      "Thu Mar 12 00:00:00 EDT 2020": 5,
+      "Fri Mar 13 00:00:00 EDT 2020": 5
+    }
+  },
+  {
+    "code": "SEN",
+    "name": "Senegal",
+    "boundingBox": {
+      "iso": "SEN",
+      "sw": {
+        "type": "sw",
+        "longitude": -17.7862419,
+        "latitude": 12.2372838
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": -11.3458996,
+        "latitude": 16.6919712
+      }
+    },
+    "dayToCases": {
+      "Tue Mar 03 00:00:00 EST 2020": 1,
+      "Wed Mar 04 00:00:00 EST 2020": 1,
+      "Thu Mar 05 00:00:00 EST 2020": 4,
+      "Fri Mar 06 00:00:00 EST 2020": 4,
+      "Sat Mar 07 00:00:00 EST 2020": 4,
+      "Sun Mar 08 00:00:00 EST 2020": 4,
+      "Mon Mar 09 00:00:00 EDT 2020": 4,
+      "Tue Mar 10 00:00:00 EDT 2020": 4,
+      "Wed Mar 11 00:00:00 EDT 2020": 4,
+      "Thu Mar 12 00:00:00 EDT 2020": 4,
+      "Fri Mar 13 00:00:00 EDT 2020": 10
+    }
+  },
+  {
+    "code": "HND",
+    "name": "Honduras",
+    "boundingBox": {
+      "iso": "HND",
+      "sw": {
+        "type": "sw",
+        "longitude": -89.3568207,
+        "latitude": 12.9808485
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": -82.1729621,
+        "latitude": 17.619526
+      }
+    },
+    "dayToCases": {
+      "Thu Mar 12 00:00:00 EDT 2020": 2,
+      "Fri Mar 13 00:00:00 EDT 2020": 2
+    }
+  },
+  {
+    "code": "ITA",
+    "name": "Italy",
+    "boundingBox": {
+      "iso": "ITA",
+      "sw": {
+        "type": "sw",
+        "longitude": 6.6272658,
+        "latitude": 35.2889616
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 18.7844746,
+        "latitude": 47.0921462
+      }
+    },
+    "dayToCases": {
+      "Fri Jan 31 00:00:00 EST 2020": 2,
+      "Sat Feb 01 00:00:00 EST 2020": 2,
+      "Sun Feb 02 00:00:00 EST 2020": 2,
+      "Mon Feb 03 00:00:00 EST 2020": 2,
+      "Tue Feb 04 00:00:00 EST 2020": 2,
+      "Wed Feb 05 00:00:00 EST 2020": 2,
+      "Thu Feb 06 00:00:00 EST 2020": 2,
+      "Fri Feb 07 00:00:00 EST 2020": 3,
+      "Sat Feb 08 00:00:00 EST 2020": 3,
+      "Sun Feb 09 00:00:00 EST 2020": 3,
+      "Mon Feb 10 00:00:00 EST 2020": 3,
+      "Tue Feb 11 00:00:00 EST 2020": 3,
+      "Wed Feb 12 00:00:00 EST 2020": 3,
+      "Thu Feb 13 00:00:00 EST 2020": 3,
+      "Fri Feb 14 00:00:00 EST 2020": 3,
+      "Sat Feb 15 00:00:00 EST 2020": 3,
+      "Sun Feb 16 00:00:00 EST 2020": 3,
+      "Mon Feb 17 00:00:00 EST 2020": 3,
+      "Tue Feb 18 00:00:00 EST 2020": 3,
+      "Wed Feb 19 00:00:00 EST 2020": 3,
+      "Thu Feb 20 00:00:00 EST 2020": 3,
+      "Fri Feb 21 00:00:00 EST 2020": 3,
+      "Sat Feb 22 00:00:00 EST 2020": 9,
+      "Sun Feb 23 00:00:00 EST 2020": 76,
+      "Mon Feb 24 00:00:00 EST 2020": 124,
+      "Tue Feb 25 00:00:00 EST 2020": 229,
+      "Wed Feb 26 00:00:00 EST 2020": 322,
+      "Thu Feb 27 00:00:00 EST 2020": 400,
+      "Fri Feb 28 00:00:00 EST 2020": 650,
+      "Sat Feb 29 00:00:00 EST 2020": 888,
+      "Sun Mar 01 00:00:00 EST 2020": 1128,
+      "Mon Mar 02 00:00:00 EST 2020": 1689,
+      "Tue Mar 03 00:00:00 EST 2020": 2036,
+      "Wed Mar 04 00:00:00 EST 2020": 2502,
+      "Thu Mar 05 00:00:00 EST 2020": 3089,
+      "Fri Mar 06 00:00:00 EST 2020": 3858,
+      "Sat Mar 07 00:00:00 EST 2020": 4636,
+      "Sun Mar 08 00:00:00 EST 2020": 5883,
+      "Mon Mar 09 00:00:00 EDT 2020": 7375,
+      "Tue Mar 10 00:00:00 EDT 2020": 9172,
+      "Wed Mar 11 00:00:00 EDT 2020": 10149,
+      "Thu Mar 12 00:00:00 EDT 2020": 12462,
+      "Fri Mar 13 00:00:00 EDT 2020": 15113
+    }
+  },
+  {
+    "code": "MKD",
+    "name": "Macedonia",
+    "boundingBox": {
+      "iso": "MKD",
+      "sw": {
+        "type": "sw",
+        "longitude": 20.4529023,
+        "latitude": 40.8536596
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 23.034051,
+        "latitude": 42.3735359
+      }
+    },
+    "dayToCases": {
+      "Thu Feb 27 00:00:00 EST 2020": 1,
+      "Fri Feb 28 00:00:00 EST 2020": 1,
+      "Sat Feb 29 00:00:00 EST 2020": 1,
+      "Sun Mar 01 00:00:00 EST 2020": 1,
+      "Mon Mar 02 00:00:00 EST 2020": 1,
+      "Tue Mar 03 00:00:00 EST 2020": 1,
+      "Wed Mar 04 00:00:00 EST 2020": 1,
+      "Thu Mar 05 00:00:00 EST 2020": 1,
+      "Fri Mar 06 00:00:00 EST 2020": 1,
+      "Sat Mar 07 00:00:00 EST 2020": 3,
+      "Sun Mar 08 00:00:00 EST 2020": 3,
+      "Mon Mar 09 00:00:00 EDT 2020": 3,
+      "Tue Mar 10 00:00:00 EDT 2020": 7,
+      "Wed Mar 11 00:00:00 EDT 2020": 7,
+      "Thu Mar 12 00:00:00 EDT 2020": 7,
+      "Fri Mar 13 00:00:00 EDT 2020": 7
+    }
+  },
+  {
+    "code": "AFG",
+    "name": "Afghanistan",
+    "boundingBox": {
+      "iso": "AFG",
+      "sw": {
+        "type": "sw",
+        "longitude": 60.5176034,
+        "latitude": 29.3772
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 74.889862,
+        "latitude": 38.4910682
+      }
+    },
+    "dayToCases": {
+      "Tue Feb 25 00:00:00 EST 2020": 1,
+      "Wed Feb 26 00:00:00 EST 2020": 1,
+      "Thu Feb 27 00:00:00 EST 2020": 1,
+      "Fri Feb 28 00:00:00 EST 2020": 1,
+      "Sat Feb 29 00:00:00 EST 2020": 1,
+      "Sun Mar 01 00:00:00 EST 2020": 1,
+      "Mon Mar 02 00:00:00 EST 2020": 1,
+      "Tue Mar 03 00:00:00 EST 2020": 1,
+      "Wed Mar 04 00:00:00 EST 2020": 1,
+      "Thu Mar 05 00:00:00 EST 2020": 1,
+      "Fri Mar 06 00:00:00 EST 2020": 1,
+      "Sat Mar 07 00:00:00 EST 2020": 1,
+      "Sun Mar 08 00:00:00 EST 2020": 4,
+      "Mon Mar 09 00:00:00 EDT 2020": 4,
+      "Tue Mar 10 00:00:00 EDT 2020": 4,
+      "Wed Mar 11 00:00:00 EDT 2020": 4,
+      "Thu Mar 12 00:00:00 EDT 2020": 7,
+      "Fri Mar 13 00:00:00 EDT 2020": 7
+    }
+  },
+  {
+    "code": "SGP",
+    "name": "Singapore",
+    "boundingBox": {
+      "iso": "SGP",
+      "sw": {
+        "type": "sw",
+        "longitude": 103.6920359,
+        "latitude": 1.1304753
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 104.0120359,
+        "latitude": 1.4504753
+      }
+    },
+    "dayToCases": {
+      "Fri Jan 24 00:00:00 EST 2020": 1,
+      "Sat Jan 25 00:00:00 EST 2020": 3,
+      "Sun Jan 26 00:00:00 EST 2020": 4,
+      "Mon Jan 27 00:00:00 EST 2020": 4,
+      "Tue Jan 28 00:00:00 EST 2020": 7,
+      "Wed Jan 29 00:00:00 EST 2020": 7,
+      "Thu Jan 30 00:00:00 EST 2020": 10,
+      "Fri Jan 31 00:00:00 EST 2020": 13,
+      "Sat Feb 01 00:00:00 EST 2020": 16,
+      "Sun Feb 02 00:00:00 EST 2020": 18,
+      "Mon Feb 03 00:00:00 EST 2020": 18,
+      "Tue Feb 04 00:00:00 EST 2020": 18,
+      "Wed Feb 05 00:00:00 EST 2020": 24,
+      "Thu Feb 06 00:00:00 EST 2020": 28,
+      "Fri Feb 07 00:00:00 EST 2020": 30,
+      "Sat Feb 08 00:00:00 EST 2020": 33,
+      "Sun Feb 09 00:00:00 EST 2020": 40,
+      "Mon Feb 10 00:00:00 EST 2020": 43,
+      "Tue Feb 11 00:00:00 EST 2020": 45,
+      "Wed Feb 12 00:00:00 EST 2020": 47,
+      "Thu Feb 13 00:00:00 EST 2020": 50,
+      "Fri Feb 14 00:00:00 EST 2020": 58,
+      "Sat Feb 15 00:00:00 EST 2020": 67,
+      "Sun Feb 16 00:00:00 EST 2020": 72,
+      "Mon Feb 17 00:00:00 EST 2020": 75,
+      "Tue Feb 18 00:00:00 EST 2020": 77,
+      "Wed Feb 19 00:00:00 EST 2020": 81,
+      "Thu Feb 20 00:00:00 EST 2020": 84,
+      "Fri Feb 21 00:00:00 EST 2020": 85,
+      "Sat Feb 22 00:00:00 EST 2020": 86,
+      "Sun Feb 23 00:00:00 EST 2020": 89,
+      "Mon Feb 24 00:00:00 EST 2020": 89,
+      "Tue Feb 25 00:00:00 EST 2020": 90,
+      "Wed Feb 26 00:00:00 EST 2020": 91,
+      "Thu Feb 27 00:00:00 EST 2020": 93,
+      "Fri Feb 28 00:00:00 EST 2020": 96,
+      "Sat Feb 29 00:00:00 EST 2020": 98,
+      "Sun Mar 01 00:00:00 EST 2020": 102,
+      "Mon Mar 02 00:00:00 EST 2020": 106,
+      "Tue Mar 03 00:00:00 EST 2020": 108,
+      "Wed Mar 04 00:00:00 EST 2020": 110,
+      "Thu Mar 05 00:00:00 EST 2020": 110,
+      "Fri Mar 06 00:00:00 EST 2020": 117,
+      "Sat Mar 07 00:00:00 EST 2020": 130,
+      "Sun Mar 08 00:00:00 EST 2020": 138,
+      "Mon Mar 09 00:00:00 EDT 2020": 150,
+      "Tue Mar 10 00:00:00 EDT 2020": 160,
+      "Wed Mar 11 00:00:00 EDT 2020": 166,
+      "Thu Mar 12 00:00:00 EDT 2020": 178,
+      "Fri Mar 13 00:00:00 EDT 2020": 187
+    }
+  },
+  {
+    "code": "EGY",
+    "name": "Egypt",
+    "boundingBox": {
+      "iso": "EGY",
+      "sw": {
+        "type": "sw",
+        "longitude": 24.6499112,
+        "latitude": 22.0
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 37.1153517,
+        "latitude": 31.8330854
+      }
+    },
+    "dayToCases": {
+      "Sat Feb 15 00:00:00 EST 2020": 1,
+      "Sun Feb 16 00:00:00 EST 2020": 1,
+      "Mon Feb 17 00:00:00 EST 2020": 1,
+      "Tue Feb 18 00:00:00 EST 2020": 1,
+      "Wed Feb 19 00:00:00 EST 2020": 1,
+      "Thu Feb 20 00:00:00 EST 2020": 1,
+      "Fri Feb 21 00:00:00 EST 2020": 1,
+      "Sat Feb 22 00:00:00 EST 2020": 1,
+      "Sun Feb 23 00:00:00 EST 2020": 1,
+      "Mon Feb 24 00:00:00 EST 2020": 1,
+      "Tue Feb 25 00:00:00 EST 2020": 1,
+      "Wed Feb 26 00:00:00 EST 2020": 1,
+      "Thu Feb 27 00:00:00 EST 2020": 1,
+      "Fri Feb 28 00:00:00 EST 2020": 1,
+      "Sat Feb 29 00:00:00 EST 2020": 1,
+      "Sun Mar 01 00:00:00 EST 2020": 1,
+      "Mon Mar 02 00:00:00 EST 2020": 2,
+      "Tue Mar 03 00:00:00 EST 2020": 2,
+      "Wed Mar 04 00:00:00 EST 2020": 2,
+      "Thu Mar 05 00:00:00 EST 2020": 2,
+      "Fri Mar 06 00:00:00 EST 2020": 3,
+      "Sat Mar 07 00:00:00 EST 2020": 3,
+      "Sun Mar 08 00:00:00 EST 2020": 48,
+      "Mon Mar 09 00:00:00 EDT 2020": 55,
+      "Tue Mar 10 00:00:00 EDT 2020": 59,
+      "Wed Mar 11 00:00:00 EDT 2020": 59,
+      "Thu Mar 12 00:00:00 EDT 2020": 67,
+      "Fri Mar 13 00:00:00 EDT 2020": 67
+    }
+  },
+  {
+    "code": "BOL",
+    "name": "Bolivia",
+    "boundingBox": {
+      "iso": "BOL",
+      "sw": {
+        "type": "sw",
+        "longitude": -69.6450073,
+        "latitude": -22.8982742
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": -57.453,
+        "latitude": -9.6689438
+      }
+    },
+    "dayToCases": {
+      "Wed Mar 11 00:00:00 EDT 2020": 2,
+      "Thu Mar 12 00:00:00 EDT 2020": 2,
+      "Fri Mar 13 00:00:00 EDT 2020": 3
+    }
+  },
+  {
+    "code": "MLT",
+    "name": "Malta",
+    "boundingBox": {
+      "iso": "MLT",
+      "sw": {
+        "type": "sw",
+        "longitude": 13.9324226,
+        "latitude": 35.6029696
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 14.8267966,
+        "latitude": 36.2852706
+      }
+    },
+    "dayToCases": {
+      "Sun Mar 08 00:00:00 EST 2020": 3,
+      "Mon Mar 09 00:00:00 EDT 2020": 3,
+      "Tue Mar 10 00:00:00 EDT 2020": 4,
+      "Wed Mar 11 00:00:00 EDT 2020": 4,
+      "Thu Mar 12 00:00:00 EDT 2020": 6,
+      "Fri Mar 13 00:00:00 EDT 2020": 9
+    }
+  },
+  {
+    "code": "RUS",
+    "name": "Russia",
+    "boundingBox": {
+      "iso": "RUS",
+      "sw": {
+        "type": "sw",
+        "longitude": 19.6389,
+        "latitude": 41.1850968
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 180.0,
+        "latitude": 82.0586232
+      }
+    },
+    "dayToCases": {
+      "Sat Feb 01 00:00:00 EST 2020": 2,
+      "Sun Feb 02 00:00:00 EST 2020": 2,
+      "Mon Feb 03 00:00:00 EST 2020": 2,
+      "Tue Feb 04 00:00:00 EST 2020": 2,
+      "Wed Feb 05 00:00:00 EST 2020": 2,
+      "Thu Feb 06 00:00:00 EST 2020": 2,
+      "Fri Feb 07 00:00:00 EST 2020": 2,
+      "Sat Feb 08 00:00:00 EST 2020": 2,
+      "Sun Feb 09 00:00:00 EST 2020": 2,
+      "Mon Feb 10 00:00:00 EST 2020": 2,
+      "Tue Feb 11 00:00:00 EST 2020": 2,
+      "Wed Feb 12 00:00:00 EST 2020": 2,
+      "Thu Feb 13 00:00:00 EST 2020": 2,
+      "Fri Feb 14 00:00:00 EST 2020": 2,
+      "Sat Feb 15 00:00:00 EST 2020": 2,
+      "Sun Feb 16 00:00:00 EST 2020": 2,
+      "Mon Feb 17 00:00:00 EST 2020": 2,
+      "Tue Feb 18 00:00:00 EST 2020": 2,
+      "Wed Feb 19 00:00:00 EST 2020": 2,
+      "Thu Feb 20 00:00:00 EST 2020": 2,
+      "Fri Feb 21 00:00:00 EST 2020": 2,
+      "Sat Feb 22 00:00:00 EST 2020": 2,
+      "Sun Feb 23 00:00:00 EST 2020": 2,
+      "Mon Feb 24 00:00:00 EST 2020": 2,
+      "Tue Feb 25 00:00:00 EST 2020": 2,
+      "Wed Feb 26 00:00:00 EST 2020": 2,
+      "Thu Feb 27 00:00:00 EST 2020": 2,
+      "Fri Feb 28 00:00:00 EST 2020": 2,
+      "Sat Feb 29 00:00:00 EST 2020": 2,
+      "Sun Mar 01 00:00:00 EST 2020": 2,
+      "Mon Mar 02 00:00:00 EST 2020": 2,
+      "Tue Mar 03 00:00:00 EST 2020": 3,
+      "Wed Mar 04 00:00:00 EST 2020": 3,
+      "Thu Mar 05 00:00:00 EST 2020": 3,
+      "Fri Mar 06 00:00:00 EST 2020": 4,
+      "Sat Mar 07 00:00:00 EST 2020": 7,
+      "Sun Mar 08 00:00:00 EST 2020": 7,
+      "Mon Mar 09 00:00:00 EDT 2020": 7,
+      "Tue Mar 10 00:00:00 EDT 2020": 7,
+      "Wed Mar 11 00:00:00 EDT 2020": 7,
+      "Thu Mar 12 00:00:00 EDT 2020": 20,
+      "Fri Mar 13 00:00:00 EDT 2020": 34
+    }
+  },
+  {
+    "code": "SAU",
+    "name": "Saudi Arabia",
+    "boundingBox": {
+      "iso": "SAU",
+      "sw": {
+        "type": "sw",
+        "longitude": 34.4571718,
+        "latitude": 16.29
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 55.6666851,
+        "latitude": 32.1543377
+      }
+    },
+    "dayToCases": {
+      "Tue Mar 03 00:00:00 EST 2020": 1,
+      "Wed Mar 04 00:00:00 EST 2020": 1,
+      "Thu Mar 05 00:00:00 EST 2020": 2,
+      "Fri Mar 06 00:00:00 EST 2020": 8,
+      "Sat Mar 07 00:00:00 EST 2020": 8,
+      "Sun Mar 08 00:00:00 EST 2020": 11,
+      "Mon Mar 09 00:00:00 EDT 2020": 15,
+      "Tue Mar 10 00:00:00 EDT 2020": 15,
+      "Wed Mar 11 00:00:00 EDT 2020": 20,
+      "Thu Mar 12 00:00:00 EDT 2020": 21,
+      "Fri Mar 13 00:00:00 EDT 2020": 21
+    }
+  },
+  {
+    "code": "NLD",
+    "name": "Netherlands",
+    "boundingBox": {
+      "iso": "NLD",
+      "sw": {
+        "type": "sw",
+        "longitude": 1.9193492,
+        "latitude": 50.7295671
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 7.2274985,
+        "latitude": 53.7253321
+      }
+    },
+    "dayToCases": {
+      "Fri Feb 28 00:00:00 EST 2020": 1,
+      "Sat Feb 29 00:00:00 EST 2020": 2,
+      "Sun Mar 01 00:00:00 EST 2020": 7,
+      "Mon Mar 02 00:00:00 EST 2020": 13,
+      "Tue Mar 03 00:00:00 EST 2020": 18,
+      "Wed Mar 04 00:00:00 EST 2020": 28,
+      "Thu Mar 05 00:00:00 EST 2020": 38,
+      "Fri Mar 06 00:00:00 EST 2020": 82,
+      "Sat Mar 07 00:00:00 EST 2020": 128,
+      "Sun Mar 08 00:00:00 EST 2020": 188,
+      "Mon Mar 09 00:00:00 EDT 2020": 265,
+      "Tue Mar 10 00:00:00 EDT 2020": 321,
+      "Wed Mar 11 00:00:00 EDT 2020": 382,
+      "Thu Mar 12 00:00:00 EDT 2020": 503,
+      "Fri Mar 13 00:00:00 EDT 2020": 614
+    }
+  },
+  {
+    "code": "PAK",
+    "name": "Pakistan",
+    "boundingBox": {
+      "iso": "PAK",
+      "sw": {
+        "type": "sw",
+        "longitude": 60.872855,
+        "latitude": 23.5393916
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 77.1203914,
+        "latitude": 37.084107
+      }
+    },
+    "dayToCases": {
+      "Thu Feb 27 00:00:00 EST 2020": 2,
+      "Fri Feb 28 00:00:00 EST 2020": 2,
+      "Sat Feb 29 00:00:00 EST 2020": 2,
+      "Sun Mar 01 00:00:00 EST 2020": 4,
+      "Mon Mar 02 00:00:00 EST 2020": 4,
+      "Tue Mar 03 00:00:00 EST 2020": 5,
+      "Wed Mar 04 00:00:00 EST 2020": 5,
+      "Thu Mar 05 00:00:00 EST 2020": 5,
+      "Fri Mar 06 00:00:00 EST 2020": 5,
+      "Sat Mar 07 00:00:00 EST 2020": 5,
+      "Sun Mar 08 00:00:00 EST 2020": 5,
+      "Mon Mar 09 00:00:00 EDT 2020": 6,
+      "Tue Mar 10 00:00:00 EDT 2020": 16,
+      "Wed Mar 11 00:00:00 EDT 2020": 16,
+      "Thu Mar 12 00:00:00 EDT 2020": 19,
+      "Fri Mar 13 00:00:00 EDT 2020": 20
+    }
+  },
+  {
+    "code": "CHN",
+    "name": "China",
+    "boundingBox": {
+      "iso": "CHN",
+      "sw": {
+        "type": "sw",
+        "longitude": 73.4997347,
+        "latitude": 8.8383436
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 134.7754563,
+        "latitude": 53.5608154
+      }
+    },
+    "dayToCases": {
+      "Tue Jan 21 00:00:00 EST 2020": 278,
+      "Wed Jan 22 00:00:00 EST 2020": 310,
+      "Thu Jan 23 00:00:00 EST 2020": 574,
+      "Fri Jan 24 00:00:00 EST 2020": 835,
+      "Sat Jan 25 00:00:00 EST 2020": 1297,
+      "Sun Jan 26 00:00:00 EST 2020": 1985,
+      "Mon Jan 27 00:00:00 EST 2020": 2761,
+      "Tue Jan 28 00:00:00 EST 2020": 4537,
+      "Wed Jan 29 00:00:00 EST 2020": 5997,
+      "Thu Jan 30 00:00:00 EST 2020": 7736,
+      "Fri Jan 31 00:00:00 EST 2020": 9720,
+      "Sat Feb 01 00:00:00 EST 2020": 11821,
+      "Sun Feb 02 00:00:00 EST 2020": 14411,
+      "Mon Feb 03 00:00:00 EST 2020": 17238,
+      "Tue Feb 04 00:00:00 EST 2020": 20471,
+      "Wed Feb 05 00:00:00 EST 2020": 24363,
+      "Thu Feb 06 00:00:00 EST 2020": 28060,
+      "Fri Feb 07 00:00:00 EST 2020": 31211,
+      "Sat Feb 08 00:00:00 EST 2020": 34598,
+      "Sun Feb 09 00:00:00 EST 2020": 37251,
+      "Mon Feb 10 00:00:00 EST 2020": 40235,
+      "Tue Feb 11 00:00:00 EST 2020": 42708,
+      "Wed Feb 12 00:00:00 EST 2020": 44730,
+      "Thu Feb 13 00:00:00 EST 2020": 46550,
+      "Fri Feb 14 00:00:00 EST 2020": 48548,
+      "Sat Feb 15 00:00:00 EST 2020": 50054,
+      "Sun Feb 16 00:00:00 EST 2020": 51174,
+      "Mon Feb 17 00:00:00 EST 2020": 70635,
+      "Tue Feb 18 00:00:00 EST 2020": 72528,
+      "Wed Feb 19 00:00:00 EST 2020": 74280,
+      "Thu Feb 20 00:00:00 EST 2020": 74675,
+      "Fri Feb 21 00:00:00 EST 2020": 75569,
+      "Sat Feb 22 00:00:00 EST 2020": 76392,
+      "Sun Feb 23 00:00:00 EST 2020": 77042,
+      "Mon Feb 24 00:00:00 EST 2020": 77262,
+      "Tue Feb 25 00:00:00 EST 2020": 77780,
+      "Wed Feb 26 00:00:00 EST 2020": 78191,
+      "Thu Feb 27 00:00:00 EST 2020": 78630,
+      "Fri Feb 28 00:00:00 EST 2020": 78961,
+      "Sat Feb 29 00:00:00 EST 2020": 79394,
+      "Sun Mar 01 00:00:00 EST 2020": 79968,
+      "Mon Mar 02 00:00:00 EST 2020": 80174,
+      "Tue Mar 03 00:00:00 EST 2020": 80304,
+      "Wed Mar 04 00:00:00 EST 2020": 80422,
+      "Thu Mar 05 00:00:00 EST 2020": 80565,
+      "Fri Mar 06 00:00:00 EST 2020": 80711,
+      "Sat Mar 07 00:00:00 EST 2020": 80813,
+      "Sun Mar 08 00:00:00 EST 2020": 80859,
+      "Mon Mar 09 00:00:00 EDT 2020": 80904,
+      "Tue Mar 10 00:00:00 EDT 2020": 80924,
+      "Wed Mar 11 00:00:00 EDT 2020": 80955,
+      "Thu Mar 12 00:00:00 EDT 2020": 80981,
+      "Fri Mar 13 00:00:00 EDT 2020": 80991
+    }
+  },
+  {
+    "code": "IRL",
+    "name": "Ireland",
+    "boundingBox": {
+      "iso": "IRL",
+      "sw": {
+        "type": "sw",
+        "longitude": -11.0133788,
+        "latitude": 51.222
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": -5.6582363,
+        "latitude": 55.636
+      }
+    },
+    "dayToCases": {
+      "Sun Mar 01 00:00:00 EST 2020": 1,
+      "Mon Mar 02 00:00:00 EST 2020": 1,
+      "Tue Mar 03 00:00:00 EST 2020": 1,
+      "Wed Mar 04 00:00:00 EST 2020": 2,
+      "Thu Mar 05 00:00:00 EST 2020": 2,
+      "Fri Mar 06 00:00:00 EST 2020": 14,
+      "Sat Mar 07 00:00:00 EST 2020": 18,
+      "Sun Mar 08 00:00:00 EST 2020": 19,
+      "Mon Mar 09 00:00:00 EDT 2020": 21,
+      "Tue Mar 10 00:00:00 EDT 2020": 24,
+      "Wed Mar 11 00:00:00 EDT 2020": 34,
+      "Thu Mar 12 00:00:00 EDT 2020": 43,
+      "Fri Mar 13 00:00:00 EDT 2020": 70
+    }
+  },
+  {
+    "code": "QAT",
+    "name": "Qatar",
+    "boundingBox": {
+      "iso": "QAT",
+      "sw": {
+        "type": "sw",
+        "longitude": 50.5675,
+        "latitude": 24.4707534
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 52.638011,
+        "latitude": 26.3830212
+      }
+    },
+    "dayToCases": {
+      "Sun Mar 01 00:00:00 EST 2020": 1,
+      "Mon Mar 02 00:00:00 EST 2020": 3,
+      "Tue Mar 03 00:00:00 EST 2020": 7,
+      "Wed Mar 04 00:00:00 EST 2020": 8,
+      "Thu Mar 05 00:00:00 EST 2020": 8,
+      "Fri Mar 06 00:00:00 EST 2020": 8,
+      "Sat Mar 07 00:00:00 EST 2020": 11,
+      "Sun Mar 08 00:00:00 EST 2020": 12,
+      "Mon Mar 09 00:00:00 EDT 2020": 15,
+      "Tue Mar 10 00:00:00 EDT 2020": 18,
+      "Wed Mar 11 00:00:00 EDT 2020": 24,
+      "Thu Mar 12 00:00:00 EDT 2020": 262,
+      "Fri Mar 13 00:00:00 EDT 2020": 262
+    }
+  },
+  {
+    "code": "SVK",
+    "name": "Slovakia",
+    "boundingBox": {
+      "iso": "SVK",
+      "sw": {
+        "type": "sw",
+        "longitude": 16.8331891,
+        "latitude": 47.7314286
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 22.56571,
+        "latitude": 49.6138162
+      }
+    },
+    "dayToCases": {
+      "Sat Mar 07 00:00:00 EST 2020": 1,
+      "Sun Mar 08 00:00:00 EST 2020": 3,
+      "Mon Mar 09 00:00:00 EDT 2020": 5,
+      "Tue Mar 10 00:00:00 EDT 2020": 7,
+      "Wed Mar 11 00:00:00 EDT 2020": 7,
+      "Thu Mar 12 00:00:00 EDT 2020": 10,
+      "Fri Mar 13 00:00:00 EDT 2020": 21
+    }
+  },
+  {
+    "code": "FRA",
+    "name": "France",
+    "boundingBox": {
+      "iso": "FRA",
+      "sw": {
+        "type": "sw",
+        "longitude": -5.4534286,
+        "latitude": 41.2632185
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 9.8678344,
+        "latitude": 51.268318
+      }
+    },
+    "dayToCases": {
+      "Sat Jan 25 00:00:00 EST 2020": 3,
+      "Sun Jan 26 00:00:00 EST 2020": 3,
+      "Mon Jan 27 00:00:00 EST 2020": 3,
+      "Tue Jan 28 00:00:00 EST 2020": 3,
+      "Wed Jan 29 00:00:00 EST 2020": 4,
+      "Thu Jan 30 00:00:00 EST 2020": 5,
+      "Fri Jan 31 00:00:00 EST 2020": 6,
+      "Sat Feb 01 00:00:00 EST 2020": 6,
+      "Sun Feb 02 00:00:00 EST 2020": 6,
+      "Mon Feb 03 00:00:00 EST 2020": 6,
+      "Tue Feb 04 00:00:00 EST 2020": 6,
+      "Wed Feb 05 00:00:00 EST 2020": 6,
+      "Thu Feb 06 00:00:00 EST 2020": 6,
+      "Fri Feb 07 00:00:00 EST 2020": 6,
+      "Sat Feb 08 00:00:00 EST 2020": 6,
+      "Sun Feb 09 00:00:00 EST 2020": 11,
+      "Mon Feb 10 00:00:00 EST 2020": 11,
+      "Tue Feb 11 00:00:00 EST 2020": 11,
+      "Wed Feb 12 00:00:00 EST 2020": 11,
+      "Thu Feb 13 00:00:00 EST 2020": 11,
+      "Fri Feb 14 00:00:00 EST 2020": 11,
+      "Sat Feb 15 00:00:00 EST 2020": 11,
+      "Sun Feb 16 00:00:00 EST 2020": 12,
+      "Mon Feb 17 00:00:00 EST 2020": 12,
+      "Tue Feb 18 00:00:00 EST 2020": 12,
+      "Wed Feb 19 00:00:00 EST 2020": 12,
+      "Thu Feb 20 00:00:00 EST 2020": 12,
+      "Fri Feb 21 00:00:00 EST 2020": 12,
+      "Sat Feb 22 00:00:00 EST 2020": 12,
+      "Sun Feb 23 00:00:00 EST 2020": 12,
+      "Mon Feb 24 00:00:00 EST 2020": 12,
+      "Tue Feb 25 00:00:00 EST 2020": 12,
+      "Wed Feb 26 00:00:00 EST 2020": 12,
+      "Thu Feb 27 00:00:00 EST 2020": 18,
+      "Fri Feb 28 00:00:00 EST 2020": 38,
+      "Sat Feb 29 00:00:00 EST 2020": 57,
+      "Sun Mar 01 00:00:00 EST 2020": 100,
+      "Mon Mar 02 00:00:00 EST 2020": 100,
+      "Tue Mar 03 00:00:00 EST 2020": 191,
+      "Wed Mar 04 00:00:00 EST 2020": 212,
+      "Thu Mar 05 00:00:00 EST 2020": 282,
+      "Fri Mar 06 00:00:00 EST 2020": 420,
+      "Sat Mar 07 00:00:00 EST 2020": 613,
+      "Sun Mar 08 00:00:00 EST 2020": 706,
+      "Mon Mar 09 00:00:00 EDT 2020": 1116,
+      "Tue Mar 10 00:00:00 EDT 2020": 1402,
+      "Wed Mar 11 00:00:00 EDT 2020": 1774,
+      "Thu Mar 12 00:00:00 EDT 2020": 2269,
+      "Fri Mar 13 00:00:00 EDT 2020": 2860
+    }
+  },
+  {
+    "code": "LTU",
+    "name": "Lithuania",
+    "boundingBox": {
+      "iso": "LTU",
+      "sw": {
+        "type": "sw",
+        "longitude": 20.653783,
+        "latitude": 53.8967893
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 26.8355198,
+        "latitude": 56.4504213
+      }
+    },
+    "dayToCases": {
+      "Fri Feb 28 00:00:00 EST 2020": 1,
+      "Sat Feb 29 00:00:00 EST 2020": 1,
+      "Sun Mar 01 00:00:00 EST 2020": 1,
+      "Mon Mar 02 00:00:00 EST 2020": 1,
+      "Tue Mar 03 00:00:00 EST 2020": 1,
+      "Wed Mar 04 00:00:00 EST 2020": 1,
+      "Thu Mar 05 00:00:00 EST 2020": 1,
+      "Fri Mar 06 00:00:00 EST 2020": 1,
+      "Sat Mar 07 00:00:00 EST 2020": 1,
+      "Sun Mar 08 00:00:00 EST 2020": 1,
+      "Mon Mar 09 00:00:00 EDT 2020": 1,
+      "Tue Mar 10 00:00:00 EDT 2020": 1,
+      "Wed Mar 11 00:00:00 EDT 2020": 1,
+      "Thu Mar 12 00:00:00 EDT 2020": 3,
+      "Fri Mar 13 00:00:00 EDT 2020": 3
+    }
+  },
+  {
+    "code": "SRB",
+    "name": "Serbia",
+    "boundingBox": {
+      "iso": "SRB",
+      "sw": {
+        "type": "sw",
+        "longitude": 18.8142875,
+        "latitude": 42.2322435
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 23.006309,
+        "latitude": 46.1900524
+      }
+    },
+    "dayToCases": {
+      "Fri Mar 06 00:00:00 EST 2020": 1,
+      "Sat Mar 07 00:00:00 EST 2020": 1,
+      "Sun Mar 08 00:00:00 EST 2020": 1,
+      "Mon Mar 09 00:00:00 EDT 2020": 1,
+      "Tue Mar 10 00:00:00 EDT 2020": 1,
+      "Wed Mar 11 00:00:00 EDT 2020": 12,
+      "Thu Mar 12 00:00:00 EDT 2020": 19,
+      "Fri Mar 13 00:00:00 EDT 2020": 19
+    }
+  },
+  {
+    "code": "BIH",
+    "name": "Bosnia and Herzegovina",
+    "boundingBox": {
+      "iso": "BIH",
+      "sw": {
+        "type": "sw",
+        "longitude": 15.7287433,
+        "latitude": 42.5553114
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 19.6237311,
+        "latitude": 45.2764135
+      }
+    },
+    "dayToCases": {
+      "Thu Mar 05 00:00:00 EST 2020": 2,
+      "Fri Mar 06 00:00:00 EST 2020": 2,
+      "Sat Mar 07 00:00:00 EST 2020": 2,
+      "Sun Mar 08 00:00:00 EST 2020": 2,
+      "Mon Mar 09 00:00:00 EDT 2020": 2,
+      "Tue Mar 10 00:00:00 EDT 2020": 2,
+      "Wed Mar 11 00:00:00 EDT 2020": 4,
+      "Thu Mar 12 00:00:00 EDT 2020": 4,
+      "Fri Mar 13 00:00:00 EDT 2020": 4
+    }
+  },
+  {
+    "code": "REU",
+    "name": "Reunion",
+    "boundingBox": {
+      "iso": "REU",
+      "sw": {
+        "type": "sw",
+        "longitude": 55.2164268,
+        "latitude": -21.3897308
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 55.8366924,
+        "latitude": -20.8717136
+      }
+    },
+    "dayToCases": {
+      "Fri Mar 13 00:00:00 EDT 2020": 3
+    }
+  },
+  {
+    "code": "BTN",
+    "name": "Bhutan",
+    "boundingBox": {
+      "iso": "BTN",
+      "sw": {
+        "type": "sw",
+        "longitude": 88.7464724,
+        "latitude": 26.702016
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 92.1252321,
+        "latitude": 28.246987
+      }
+    },
+    "dayToCases": {
+      "Fri Mar 06 00:00:00 EST 2020": 1,
+      "Sat Mar 07 00:00:00 EST 2020": 1,
+      "Sun Mar 08 00:00:00 EST 2020": 1,
+      "Mon Mar 09 00:00:00 EDT 2020": 1,
+      "Tue Mar 10 00:00:00 EDT 2020": 1,
+      "Wed Mar 11 00:00:00 EDT 2020": 1,
+      "Thu Mar 12 00:00:00 EDT 2020": 1,
+      "Fri Mar 13 00:00:00 EDT 2020": 1
+    }
+  },
+  {
+    "code": "ROU",
+    "name": "Romania",
+    "boundingBox": {
+      "iso": "ROU",
+      "sw": {
+        "type": "sw",
+        "longitude": 20.2619773,
+        "latitude": 43.618682
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 30.0454257,
+        "latitude": 48.2653964
+      }
+    },
+    "dayToCases": {
+      "Thu Feb 27 00:00:00 EST 2020": 1,
+      "Fri Feb 28 00:00:00 EST 2020": 1,
+      "Sat Feb 29 00:00:00 EST 2020": 3,
+      "Sun Mar 01 00:00:00 EST 2020": 3,
+      "Mon Mar 02 00:00:00 EST 2020": 3,
+      "Tue Mar 03 00:00:00 EST 2020": 3,
+      "Wed Mar 04 00:00:00 EST 2020": 4,
+      "Thu Mar 05 00:00:00 EST 2020": 4,
+      "Fri Mar 06 00:00:00 EST 2020": 6,
+      "Sat Mar 07 00:00:00 EST 2020": 7,
+      "Sun Mar 08 00:00:00 EST 2020": 13,
+      "Mon Mar 09 00:00:00 EDT 2020": 15,
+      "Tue Mar 10 00:00:00 EDT 2020": 15,
+      "Wed Mar 11 00:00:00 EDT 2020": 25,
+      "Thu Mar 12 00:00:00 EDT 2020": 48,
+      "Fri Mar 13 00:00:00 EDT 2020": 48
+    }
+  },
+  {
+    "code": "TGO",
+    "name": "Togo",
+    "boundingBox": {
+      "iso": "TGO",
+      "sw": {
+        "type": "sw",
+        "longitude": -0.1439746,
+        "latitude": 5.926547
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 1.8087605,
+        "latitude": 11.1395102
+      }
+    },
+    "dayToCases": {
+      "Sat Mar 07 00:00:00 EST 2020": 1,
+      "Sun Mar 08 00:00:00 EST 2020": 1,
+      "Mon Mar 09 00:00:00 EDT 2020": 1,
+      "Tue Mar 10 00:00:00 EDT 2020": 1,
+      "Wed Mar 11 00:00:00 EDT 2020": 1,
+      "Thu Mar 12 00:00:00 EDT 2020": 1,
+      "Fri Mar 13 00:00:00 EDT 2020": 1
+    }
+  },
+  {
+    "code": "PHL",
+    "name": "Philippines",
+    "boundingBox": {
+      "iso": "PHL",
+      "sw": {
+        "type": "sw",
+        "longitude": 114.0952145,
+        "latitude": 4.2158064
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 126.8072562,
+        "latitude": 21.3217806
+      }
+    },
+    "dayToCases": {
+      "Thu Jan 30 00:00:00 EST 2020": 1,
+      "Fri Jan 31 00:00:00 EST 2020": 1,
+      "Sat Feb 01 00:00:00 EST 2020": 1,
+      "Sun Feb 02 00:00:00 EST 2020": 2,
+      "Mon Feb 03 00:00:00 EST 2020": 2,
+      "Tue Feb 04 00:00:00 EST 2020": 2,
+      "Wed Feb 05 00:00:00 EST 2020": 3,
+      "Thu Feb 06 00:00:00 EST 2020": 3,
+      "Fri Feb 07 00:00:00 EST 2020": 3,
+      "Sat Feb 08 00:00:00 EST 2020": 3,
+      "Sun Feb 09 00:00:00 EST 2020": 3,
+      "Mon Feb 10 00:00:00 EST 2020": 3,
+      "Tue Feb 11 00:00:00 EST 2020": 3,
+      "Wed Feb 12 00:00:00 EST 2020": 3,
+      "Thu Feb 13 00:00:00 EST 2020": 3,
+      "Fri Feb 14 00:00:00 EST 2020": 3,
+      "Sat Feb 15 00:00:00 EST 2020": 3,
+      "Sun Feb 16 00:00:00 EST 2020": 3,
+      "Mon Feb 17 00:00:00 EST 2020": 3,
+      "Tue Feb 18 00:00:00 EST 2020": 3,
+      "Wed Feb 19 00:00:00 EST 2020": 3,
+      "Thu Feb 20 00:00:00 EST 2020": 3,
+      "Fri Feb 21 00:00:00 EST 2020": 3,
+      "Sat Feb 22 00:00:00 EST 2020": 3,
+      "Sun Feb 23 00:00:00 EST 2020": 3,
+      "Mon Feb 24 00:00:00 EST 2020": 3,
+      "Tue Feb 25 00:00:00 EST 2020": 3,
+      "Wed Feb 26 00:00:00 EST 2020": 3,
+      "Thu Feb 27 00:00:00 EST 2020": 3,
+      "Fri Feb 28 00:00:00 EST 2020": 3,
+      "Sat Feb 29 00:00:00 EST 2020": 3,
+      "Sun Mar 01 00:00:00 EST 2020": 3,
+      "Mon Mar 02 00:00:00 EST 2020": 3,
+      "Tue Mar 03 00:00:00 EST 2020": 3,
+      "Wed Mar 04 00:00:00 EST 2020": 3,
+      "Thu Mar 05 00:00:00 EST 2020": 3,
+      "Fri Mar 06 00:00:00 EST 2020": 5,
+      "Sat Mar 07 00:00:00 EST 2020": 5,
+      "Sun Mar 08 00:00:00 EST 2020": 6,
+      "Mon Mar 09 00:00:00 EDT 2020": 10,
+      "Tue Mar 10 00:00:00 EDT 2020": 33,
+      "Wed Mar 11 00:00:00 EDT 2020": 49,
+      "Thu Mar 12 00:00:00 EDT 2020": 52,
+      "Fri Mar 13 00:00:00 EDT 2020": 52
+    }
+  },
+  {
+    "code": "BGD",
+    "name": "Bangladesh",
+    "boundingBox": {
+      "iso": "BGD",
+      "sw": {
+        "type": "sw",
+        "longitude": 88.0075306,
+        "latitude": 20.3756582
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 92.6804979,
+        "latitude": 26.6382534
+      }
+    },
+    "dayToCases": {
+      "Mon Mar 09 00:00:00 EDT 2020": 3,
+      "Tue Mar 10 00:00:00 EDT 2020": 3,
+      "Wed Mar 11 00:00:00 EDT 2020": 3,
+      "Thu Mar 12 00:00:00 EDT 2020": 3,
+      "Fri Mar 13 00:00:00 EDT 2020": 3
+    }
+  },
+  {
+    "code": "NOR",
+    "name": "Norway",
+    "boundingBox": {
+      "iso": "NOR",
+      "sw": {
+        "type": "sw",
+        "longitude": 4.0875274,
+        "latitude": 57.7590052
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 31.7614911,
+        "latitude": 71.3848787
+      }
+    },
+    "dayToCases": {
+      "Thu Feb 27 00:00:00 EST 2020": 1,
+      "Fri Feb 28 00:00:00 EST 2020": 4,
+      "Sat Feb 29 00:00:00 EST 2020": 6,
+      "Sun Mar 01 00:00:00 EST 2020": 15,
+      "Mon Mar 02 00:00:00 EST 2020": 19,
+      "Tue Mar 03 00:00:00 EST 2020": 25,
+      "Wed Mar 04 00:00:00 EST 2020": 32,
+      "Thu Mar 05 00:00:00 EST 2020": 56,
+      "Fri Mar 06 00:00:00 EST 2020": 86,
+      "Sat Mar 07 00:00:00 EST 2020": 113,
+      "Sun Mar 08 00:00:00 EST 2020": 147,
+      "Mon Mar 09 00:00:00 EDT 2020": 169,
+      "Tue Mar 10 00:00:00 EDT 2020": 192,
+      "Wed Mar 11 00:00:00 EDT 2020": 277,
+      "Thu Mar 12 00:00:00 EDT 2020": 489,
+      "Fri Mar 13 00:00:00 EDT 2020": 489
+    }
+  },
+  {
+    "code": "VCT",
+    "name": "Saint Vincent and the Grenadines",
+    "boundingBox": {
+      "iso": "VCT",
+      "sw": {
+        "type": "sw",
+        "longitude": -61.6657471,
+        "latitude": 12.5166548
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": -60.9094146,
+        "latitude": 13.583
+      }
+    },
+    "dayToCases": {
+      "Fri Mar 13 00:00:00 EDT 2020": 1
+    }
+  },
+  {
+    "code": "DNK",
+    "name": "Denmark",
+    "boundingBox": {
+      "iso": "DNK",
+      "sw": {
+        "type": "sw",
+        "longitude": 7.7153255,
+        "latitude": 54.4516667
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 15.5530641,
+        "latitude": 57.9524297
+      }
+    },
+    "dayToCases": {
+      "Thu Feb 27 00:00:00 EST 2020": 1,
+      "Fri Feb 28 00:00:00 EST 2020": 1,
+      "Sat Feb 29 00:00:00 EST 2020": 2,
+      "Sun Mar 01 00:00:00 EST 2020": 3,
+      "Mon Mar 02 00:00:00 EST 2020": 4,
+      "Tue Mar 03 00:00:00 EST 2020": 5,
+      "Wed Mar 04 00:00:00 EST 2020": 8,
+      "Thu Mar 05 00:00:00 EST 2020": 10,
+      "Fri Mar 06 00:00:00 EST 2020": 18,
+      "Sat Mar 07 00:00:00 EST 2020": 23,
+      "Sun Mar 08 00:00:00 EST 2020": 31,
+      "Mon Mar 09 00:00:00 EDT 2020": 36,
+      "Tue Mar 10 00:00:00 EDT 2020": 90,
+      "Wed Mar 11 00:00:00 EDT 2020": 262,
+      "Thu Mar 12 00:00:00 EDT 2020": 615,
+      "Fri Mar 13 00:00:00 EDT 2020": 674
+    }
+  },
+  {
+    "code": "DOM",
+    "name": "Dominican Republic",
+    "boundingBox": {
+      "iso": "DOM",
+      "sw": {
+        "type": "sw",
+        "longitude": -72.0574706,
+        "latitude": 17.2701708
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": -68.1101463,
+        "latitude": 21.303433
+      }
+    },
+    "dayToCases": {
+      "Mon Mar 02 00:00:00 EST 2020": 1,
+      "Tue Mar 03 00:00:00 EST 2020": 1,
+      "Wed Mar 04 00:00:00 EST 2020": 1,
+      "Thu Mar 05 00:00:00 EST 2020": 1,
+      "Fri Mar 06 00:00:00 EST 2020": 1,
+      "Sat Mar 07 00:00:00 EST 2020": 1,
+      "Sun Mar 08 00:00:00 EST 2020": 1,
+      "Mon Mar 09 00:00:00 EDT 2020": 1,
+      "Tue Mar 10 00:00:00 EDT 2020": 5,
+      "Wed Mar 11 00:00:00 EDT 2020": 5,
+      "Thu Mar 12 00:00:00 EDT 2020": 5,
+      "Fri Mar 13 00:00:00 EDT 2020": 5
+    }
+  },
+  {
+    "code": "MEX",
+    "name": "Mexico",
+    "boundingBox": {
+      "iso": "MEX",
+      "sw": {
+        "type": "sw",
+        "longitude": -118.59919,
+        "latitude": 14.3886243
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": -86.493266,
+        "latitude": 32.7186553
+      }
+    },
+    "dayToCases": {
+      "Sat Feb 29 00:00:00 EST 2020": 2,
+      "Sun Mar 01 00:00:00 EST 2020": 2,
+      "Mon Mar 02 00:00:00 EST 2020": 5,
+      "Tue Mar 03 00:00:00 EST 2020": 5,
+      "Wed Mar 04 00:00:00 EST 2020": 5,
+      "Thu Mar 05 00:00:00 EST 2020": 5,
+      "Fri Mar 06 00:00:00 EST 2020": 5,
+      "Sat Mar 07 00:00:00 EST 2020": 5,
+      "Sun Mar 08 00:00:00 EST 2020": 7,
+      "Mon Mar 09 00:00:00 EDT 2020": 7,
+      "Tue Mar 10 00:00:00 EDT 2020": 7,
+      "Wed Mar 11 00:00:00 EDT 2020": 7,
+      "Thu Mar 12 00:00:00 EDT 2020": 11,
+      "Fri Mar 13 00:00:00 EDT 2020": 12
+    }
+  },
+  {
+    "code": "IDN",
+    "name": "Indonesia",
+    "boundingBox": {
+      "iso": "IDN",
+      "sw": {
+        "type": "sw",
+        "longitude": 94.7717124,
+        "latitude": -11.2085669
+      },
+      "ne": {
+        "type": "ne",
+        "longitude": 141.0194444,
+        "latitude": 6.2744496
+      }
+    },
+    "dayToCases": {
+      "Mon Mar 02 00:00:00 EST 2020": 2,
+      "Tue Mar 03 00:00:00 EST 2020": 2,
+      "Wed Mar 04 00:00:00 EST 2020": 2,
+      "Thu Mar 05 00:00:00 EST 2020": 2,
+      "Fri Mar 06 00:00:00 EST 2020": 2,
+      "Sat Mar 07 00:00:00 EST 2020": 2,
+      "Sun Mar 08 00:00:00 EST 2020": 6,
+      "Mon Mar 09 00:00:00 EDT 2020": 6,
+      "Tue Mar 10 00:00:00 EDT 2020": 19,
+      "Wed Mar 11 00:00:00 EDT 2020": 27,
+      "Thu Mar 12 00:00:00 EDT 2020": 34,
+      "Fri Mar 13 00:00:00 EDT 2020": 34
+    }
+  }
+]
