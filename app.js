@@ -21,6 +21,7 @@ app.get('/data', (req, res) => {
      });
 });
 
+//This route provides test data for viewing the maps configuration and current state
 app.get('/mapdata', (req, res) => {
     fs.readFile('./heatmap.json', (err, d) => {
         if (err) throw err;
