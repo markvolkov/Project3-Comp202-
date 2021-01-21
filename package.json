@@ -16,6 +16,6 @@
     "heatmap.js": "^2.0.5",
     "leaflet-heatmap": "^1.0.0",
     "path": "^0.12.7",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   }
 }
